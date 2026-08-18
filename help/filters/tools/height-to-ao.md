@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/tools/height-to-ao.html"
+helpx_url: "https://helpx.adobe.com/cn/substance-3d-sampler/filters/tools/height-to-ao.html"
 breadcrumb-title: ''
 description: 使用Substance 3D Sampler中的“Height到AO”工具将Height图转换为环境遮蔽图，以创建素材。
 helpx_creative_field: ""

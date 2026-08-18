@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/getting-started/activation-and-licenses.html"
+helpx_url: "https://helpx.adobe.com/cn/substance-3d-sampler/getting-started/activation-and-licenses.html"
 breadcrumb-title: ''
 description: 了解如何激活和管理Substance 3D Sampler的许可证，以开始使用该应用程序并访问所有功能。
 helpx_creative_field: ""
@@ -28,7 +28,7 @@ ht-degree: 1%
 
 | 应用程序类型 | 激活过程 |
 | --- | --- |
-| Creative Cloud 桌面版 | 请参阅[HelpX文档](https://helpx.adobe.com/support/substance-3d-sampler.html)中的专用页面。如果有任何问题，[Creative Cloud文档](https://helpx.adobe.com/creative-cloud/user-guide.html)可能会提供其他答案。 |
+| Creative Cloud 桌面版 | 请参阅[HelpX文档](https://helpx.adobe.com/cn/support/substance-3d-sampler.html)中的专用页面。如果有任何问题，[Creative Cloud文档](https://helpx.adobe.com/cn/creative-cloud/user-guide.html)可能会提供其他答案。 |
 | 蒸汽 | 直接从Steam库中启动产品。 |
 | Substance 3D独立 | 请参阅下述激活流程。 |
 
@@ -42,7 +42,7 @@ ht-degree: 1%
 
 * **评估此产品**：旧版试用不再可用。 您可以改为在[此处](https://www.adobe.com/creativecloud/3d-augmented-reality.html)或使用Creative Cloud桌面版为每个Substance 3D应用程序开始30天试用。 每个试用都独立于其他Substance 3D应用程序，因此您可以一次试用一个应用程序或一次试用所有应用程序。
 * **使用许可证文件进行激活**：在2022年9月30日之前，使用从[Substance 3D网站](https://store.substance3d.com/user)上的帐户页面下载的许可证文件(**\*.key**)激活产品。
-* **使用您的帐户激活**：旧版Substance帐户无法再用于激活。 [此处提供了有关Substance帐户的更多信息](https://helpx.adobe.com/substance-3d/unlisted/faq-end-of-life-accounts.html)。
+* **使用您的帐户激活**：旧版Substance帐户无法再用于激活。 [此处提供了有关Substance帐户的更多信息](https://helpx.adobe.com/cn/substance-3d/unlisted/faq-end-of-life-accounts.html)。
 
 >[!WARNING]
 >

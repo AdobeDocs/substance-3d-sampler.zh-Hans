@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/3d-capture/equipment.html"
+helpx_url: "https://helpx.adobe.com/cn/substance-3d-sampler/3d-capture/equipment.html"
 breadcrumb-title: ''
 description: 了解推荐用于Substance 3D Sampler的3D 捕捉设备，以实现高质量的材料和对象数字化。
 helpx_creative_field: ""

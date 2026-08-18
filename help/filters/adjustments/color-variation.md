@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/adjustments/color-variation.html"
+helpx_url: "https://helpx.adobe.com/cn/substance-3d-sampler/filters/adjustments/color-variation.html"
 breadcrumb-title: ''
 description: 使用Substance 3D Sampler中的“颜色变化”滤镜为纹理添加颜色多样性和变化，以获得更自然的素材。
 helpx_creative_field: ""

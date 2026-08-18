@@ -1,5 +1,5 @@
 ---
-helpx_url: 'https://helpx.adobe.com/substance-3d-sampler/filters/custom-filters.html'
+helpx_url: 'https://helpx.adobe.com/cn/substance-3d-sampler/filters/custom-filters.html'
 breadcrumb-title: ''
 description: 了解如何在Substance 3D Sampler中使用自定义滤镜，通过Substance Designer滤镜和自定义效果扩展功能。
 helpx_creative_field: ''

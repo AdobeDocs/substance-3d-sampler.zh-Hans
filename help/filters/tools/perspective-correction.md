@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/tools/perspective-correction.html"
+helpx_url: "https://helpx.adobe.com/cn/substance-3d-sampler/filters/tools/perspective-correction.html"
 breadcrumb-title: ''
 description: 使用Substance 3D Sampler中的“透视校正”工具来校正捕获的图像和纹理中的透视扭曲。
 helpx_creative_field: ""

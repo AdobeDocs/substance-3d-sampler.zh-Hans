@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/wear-and-finish/scratch.html"
+helpx_url: "https://helpx.adobe.com/cn/substance-3d-sampler/filters/wear-and-finish/scratch.html"
 breadcrumb-title: ''
 description: 使用Substance 3D Sampler中的“划痕”滤镜为素材添加逼真的划痕和表面损坏效果。
 helpx_creative_field: ""

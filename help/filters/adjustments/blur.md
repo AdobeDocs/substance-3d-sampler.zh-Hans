@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/adjustments/blur.html"
+helpx_url: "https://helpx.adobe.com/cn/substance-3d-sampler/filters/adjustments/blur.html"
 breadcrumb-title: ''
 description: 在Substance 3D Sampler中使用“模糊”滤镜应用模糊效果，并降低纹理和素材图层的图像锐化程度。
 helpx_creative_field: ""

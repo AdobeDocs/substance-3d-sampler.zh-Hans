@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/features-and-workflows/texture-generators.html"
+helpx_url: "https://helpx.adobe.com/cn/substance-3d-sampler/features-and-workflows/texture-generators.html"
 breadcrumb-title: ''
 description: 了解如何在Substance 3D Sampler中使用纹理生成器创建用于素材创作的程序性纹理和图案。
 helpx_creative_field: ""

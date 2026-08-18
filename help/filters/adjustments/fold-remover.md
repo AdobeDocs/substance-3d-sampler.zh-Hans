@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/adjustments/fold-remover.html"
+helpx_url: "https://helpx.adobe.com/cn/substance-3d-sampler/filters/adjustments/fold-remover.html"
 breadcrumb-title: ''
 description: 使用Substance 3D Sampler中的褶皱移除器滤镜从织物纹理中移除褶皱和折痕，以实现干净的材质表面。
 helpx_creative_field: ""

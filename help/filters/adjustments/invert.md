@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/adjustments/invert.html"
+helpx_url: "https://helpx.adobe.com/cn/substance-3d-sampler/filters/adjustments/invert.html"
 breadcrumb-title: ''
 description: 使用Substance 3D Sampler中的“反相”滤镜反相颜色值，并在纹理和素材中创建负图像效果。
 helpx_creative_field: ""

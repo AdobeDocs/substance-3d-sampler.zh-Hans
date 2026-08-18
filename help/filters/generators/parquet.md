@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/generators/parquet.html"
+helpx_url: "https://helpx.adobe.com/cn/substance-3d-sampler/filters/generators/parquet.html"
 breadcrumb-title: ''
 description: 使用Substance 3D Sampler中的镶板生成器为素材创建逼真的镶板木地板图案和纹理。
 helpx_creative_field: ""

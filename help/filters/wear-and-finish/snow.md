@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/wear-and-finish/snow.html"
+helpx_url: "https://helpx.adobe.com/cn/substance-3d-sampler/filters/wear-and-finish/snow.html"
 breadcrumb-title: ''
 description: 使用Substance 3D Sampler中的Snow滤镜为素材添加逼真的积雪和冬季天气效果。
 helpx_creative_field: ""

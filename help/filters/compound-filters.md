@@ -1,5 +1,5 @@
 ---
-helpx_url: 'https://helpx.adobe.com/substance-3d-sampler/filters/compound-filters.html'
+helpx_url: 'https://helpx.adobe.com/cn/substance-3d-sampler/filters/compound-filters.html'
 breadcrumb-title: ''
 description: 了解如何在Substance 3D Sampler中创建和使用复合滤镜，以将多个滤镜组合到单个可重用的图层中。
 helpx_creative_field: ''

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/tools/make-it-tile.html"
+helpx_url: "https://helpx.adobe.com/cn/substance-3d-sampler/filters/tools/make-it-tile.html"
 breadcrumb-title: ''
 description: 使用Substance 3D Sampler中的“为其拼贴”工具，可从非拼贴纹理自动创建无缝拼贴图案。
 helpx_creative_field: ""

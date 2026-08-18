@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/tools/channels-generation.html"
+helpx_url: "https://helpx.adobe.com/cn/substance-3d-sampler/filters/tools/channels-generation.html"
 breadcrumb-title: ''
 description: 使用Substance 3D Sampler中的“通道生成”工具，根据现有地图生成纹理通道以创建素材。
 helpx_creative_field: ""

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/features-and-workflows/export-parametric-assets.html"
+helpx_url: "https://helpx.adobe.com/cn/substance-3d-sampler/features-and-workflows/export-parametric-assets.html"
 breadcrumb-title: ''
 description: 了解如何从Substance 3D Sampler导出参数资源，以便在其他应用程序中修改参数，而无需返回到Sampler。
 helpx_creative_field: ""

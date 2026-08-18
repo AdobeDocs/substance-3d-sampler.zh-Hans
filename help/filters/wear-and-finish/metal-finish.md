@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/wear-and-finish/metal-finish.html"
+helpx_url: "https://helpx.adobe.com/cn/substance-3d-sampler/filters/wear-and-finish/metal-finish.html"
 breadcrumb-title: ''
 description: 使用Substance 3D Sampler中的“金属光洁度”滤镜，将各种金属表面光洁度和纹理应用于您的材质。
 helpx_creative_field: ""

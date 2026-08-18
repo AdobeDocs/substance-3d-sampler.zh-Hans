@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/hdri-tools/plane-light.html"
+helpx_url: "https://helpx.adobe.com/cn/substance-3d-sampler/filters/hdri-tools/plane-light.html"
 breadcrumb-title: ''
 description: 使用Substance 3D Sampler中的“平面光”工具将平面光源添加到HDRI环境中以实现区域光照效果。
 helpx_creative_field: ""

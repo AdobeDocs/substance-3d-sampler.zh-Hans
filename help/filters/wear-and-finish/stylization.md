@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/wear-and-finish/stylization.html"
+helpx_url: "https://helpx.adobe.com/cn/substance-3d-sampler/filters/wear-and-finish/stylization.html"
 breadcrumb-title: ''
 description: 使用Substance 3D Sampler中的“风格化”滤镜为您的素材和纹理应用艺术效果和风格化外观。
 helpx_creative_field: ""

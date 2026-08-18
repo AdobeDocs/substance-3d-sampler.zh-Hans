@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/hdri-tools/straighten-horizon.html"
+helpx_url: "https://helpx.adobe.com/cn/substance-3d-sampler/filters/hdri-tools/straighten-horizon.html"
 breadcrumb-title: ''
 description: 使用Substance 3D Sampler中的“拉直水平线”工具来校正HDRI环境图像中的水平线对齐方式。
 helpx_creative_field: ""

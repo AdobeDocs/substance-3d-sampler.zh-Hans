@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/tools/channel-switch.html"
+helpx_url: "https://helpx.adobe.com/cn/substance-3d-sampler/filters/tools/channel-switch.html"
 breadcrumb-title: ''
 description: 使用Substance 3D Sampler中的“通道切换”工具重新排列和交换纹理映射中的颜色通道，以创建素材。
 helpx_creative_field: ""

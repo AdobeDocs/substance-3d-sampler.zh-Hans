@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/generators/surface-relief.html"
+helpx_url: "https://helpx.adobe.com/cn/substance-3d-sampler/filters/generators/surface-relief.html"
 breadcrumb-title: ''
 description: 使用Substance 3D Sampler中的表面浮雕生成器，在素材中创建浮雕和浮雕表面图案。
 helpx_creative_field: ""

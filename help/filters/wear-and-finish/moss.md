@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/wear-and-finish/moss.html"
+helpx_url: "https://helpx.adobe.com/cn/substance-3d-sampler/filters/wear-and-finish/moss.html"
 breadcrumb-title: ''
 description: 使用Substance 3D Sampler中的苔藓滤镜为素材添加逼真的苔藓生长和有机表面效果。
 helpx_creative_field: ""

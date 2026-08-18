@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/generators/embossing.html"
+helpx_url: "https://helpx.adobe.com/cn/substance-3d-sampler/filters/generators/embossing.html"
 breadcrumb-title: ''
 description: 使用Substance 3D Sampler中的浮雕生成器，在素材中创建浮雕图案和凸起的表面浮雕效果。
 helpx_creative_field: ""

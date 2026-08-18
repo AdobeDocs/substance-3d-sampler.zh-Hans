@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/hdri-tools/sphere-light.html"
+helpx_url: "https://helpx.adobe.com/cn/substance-3d-sampler/filters/hdri-tools/sphere-light.html"
 breadcrumb-title: ''
 description: 使用Substance 3D Sampler中的“球面光”工具将球面光源添加到HDRI环境中以实现点光源效果。
 helpx_creative_field: ""

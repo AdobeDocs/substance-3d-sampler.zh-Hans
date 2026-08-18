@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/getting-started/export/default-presets/blender-cycles-eevee.html"
+helpx_url: "https://helpx.adobe.com/cn/substance-3d-sampler/getting-started/export/default-presets/blender-cycles-eevee.html"
 breadcrumb-title: ''
 description: 了解如何使用与Blender兼容的Blender Cycles/Evee预设从Substance 3D Sampler导出材质。
 helpx_creative_field: ""

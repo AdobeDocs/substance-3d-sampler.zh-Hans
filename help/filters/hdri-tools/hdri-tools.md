@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/hdri-tools.html"
+helpx_url: "https://helpx.adobe.com/cn/substance-3d-sampler/filters/hdri-tools.html"
 breadcrumb-title: ''
 description: 了解如何使用Substance 3D Sampler中的HDRI 工具来编辑、增强和创建高动态范围环境图像。
 helpx_creative_field: ""

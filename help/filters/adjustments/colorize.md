@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/adjustments/colorize.html"
+helpx_url: "https://helpx.adobe.com/cn/substance-3d-sampler/filters/adjustments/colorize.html"
 breadcrumb-title: ''
 description: 使用Substance 3D Sampler中的“着色”滤镜将色调和单色着色效果应用于纹理和材质。
 helpx_creative_field: ""

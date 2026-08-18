@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/adjustments.html"
+helpx_url: "https://helpx.adobe.com/cn/substance-3d-sampler/filters/adjustments.html"
 breadcrumb-title: ''
 description: 了解如何在Substance 3D Sampler中使用调整滤镜来修改颜色、亮度、对比度和其他材质属性。
 helpx_creative_field: ""

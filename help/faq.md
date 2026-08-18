@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/faq.html"
+helpx_url: "https://helpx.adobe.com/cn/substance-3d-sampler/faq.html"
 breadcrumb-title: ''
 description: 访问有关Substance 3D Sampler的常见问题以查找有关功能、安装和使用情况的答案。
 helpx_creative_field: ""
@@ -38,7 +38,7 @@ ht-degree: 0%
 
 ## Adobe、Firefly和生成式AI
 
-[访问完整的Firefly常见问题解答](https://www.adobe.com/products/firefly.html#faqs)
+[访问完整的Firefly常见问题解答](https://www.adobe.com/cn/products/firefly.html#faqs)
 
 * **作为Adobe客户，Firefly模型中是否包含我的内容的副本？** \
   不，Firefly模式中不包括客户内容的副本。

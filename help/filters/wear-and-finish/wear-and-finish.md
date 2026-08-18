@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/wear-and-finish.html"
+helpx_url: "https://helpx.adobe.com/cn/substance-3d-sampler/filters/wear-and-finish.html"
 breadcrumb-title: ''
 description: 了解如何在Substance 3D Sampler中使用“磨损”和“光洁度”滤镜，为材质添加风化、老化和表面光洁度效果。
 helpx_creative_field: ""

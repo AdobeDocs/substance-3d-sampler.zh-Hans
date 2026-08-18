@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/generators.html"
+helpx_url: "https://helpx.adobe.com/cn/substance-3d-sampler/filters/generators.html"
 breadcrumb-title: ''
 description: 了解如何在Substance 3D Sampler中使用生成器滤镜来创建程序模式和素材基础。
 helpx_creative_field: ""

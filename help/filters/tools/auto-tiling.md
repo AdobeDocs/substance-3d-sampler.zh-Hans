@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/tools/auto-tiling.html"
+helpx_url: "https://helpx.adobe.com/cn/substance-3d-sampler/filters/tools/auto-tiling.html"
 breadcrumb-title: ''
 description: 使用Substance 3D Sampler中的“自动拼贴”工具，通过AI技术从纹理中自动创建无缝拼贴图案。
 helpx_creative_field: ""

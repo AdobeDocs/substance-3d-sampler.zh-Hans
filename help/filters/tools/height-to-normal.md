@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/tools/height-to-normal.html"
+helpx_url: "https://helpx.adobe.com/cn/substance-3d-sampler/filters/tools/height-to-normal.html"
 breadcrumb-title: ''
 description: 使用Substance 3D Sampler中的“Height到正常”工具可将Height映射转换为用于材质创建工作流程的正常映射。
 helpx_creative_field: ""
