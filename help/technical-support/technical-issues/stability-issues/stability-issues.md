@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/technical-support/technical-issues/stability-issues.html"
+helpx_url: "https://helpx.adobe.com/cn/substance-3d-sampler/technical-support/technical-issues/stability-issues.html"
 breadcrumb-title: ''
 description: 访问有关Substance 3D Sampler稳定性问题的故障诊断指南，以解决崩溃和应用程序错误。
 helpx_creative_field: ""

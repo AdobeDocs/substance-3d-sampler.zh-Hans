@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/getting-started/export/default-presets/unity-specular.html"
+helpx_url: "https://helpx.adobe.com/cn/substance-3d-sampler/getting-started/export/default-presets/unity-specular.html"
 breadcrumb-title: ''
 description: 了解如何使用UnitySpecular预设从Substance 3D Sampler导出素材，以与Unity游戏引擎兼容。
 helpx_creative_field: ""

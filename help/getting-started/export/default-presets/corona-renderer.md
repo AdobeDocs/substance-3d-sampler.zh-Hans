@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/getting-started/export/default-presets/corona-renderer.html"
+helpx_url: "https://helpx.adobe.com/cn/substance-3d-sampler/getting-started/export/default-presets/corona-renderer.html"
 breadcrumb-title: ''
 description: 了解如何使用Substance 3D Sampler渲染器预设导出建筑可视化工作流程的素材。
 helpx_creative_field: ""

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/interface/panels/layers-panel.html"
+helpx_url: "https://helpx.adobe.com/cn/substance-3d-sampler/interface/panels/layers-panel.html"
 breadcrumb-title: ''
 description: 了解如何使用Substance 3D Sampler中的“图层”面板管理滤镜图层以及构建复杂的素材栈栈。
 helpx_creative_field: ""

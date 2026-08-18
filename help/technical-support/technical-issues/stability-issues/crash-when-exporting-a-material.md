@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/technical-support/technical-issues/stability-issues/crash-when-exporting-a-material.html"
+helpx_url: "https://helpx.adobe.com/cn/substance-3d-sampler/technical-support/technical-issues/stability-issues/crash-when-exporting-a-material.html"
 breadcrumb-title: ''
 description: 了解如何修复在Substance 3D Sampler中导出素材时由于VRAM或GPU内存不足问题导致的崩溃。
 helpx_creative_field: ""

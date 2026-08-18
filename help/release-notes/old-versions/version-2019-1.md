@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/release-notes/old-versions/version-2019-1.html"
+helpx_url: "https://helpx.adobe.com/cn/substance-3d-sampler/release-notes/old-versions/version-2019-1.html"
 breadcrumb-title: ''
 description: 查看Substance 3D Sampler 2019.1版的发行说明，了解项目管理、图层栈栈改进和Delighter更新。
 helpx_creative_field: ""
@@ -73,7 +73,7 @@ Layer Stack从头开始重建，以扩展其可能性和操作。 显着变化�
 
 ![](../../assets/sa-notes-viewport.jpg)
 
-视区中添加了一些新功能，改进了视区的使用情况。 可以在[查看器设置面板](https://helpx.adobe.com/substance-3d/unlisted/documentation/sadoc/viewer-settings-188973164.html)中访问这些新设置。
+视区中添加了一些新功能，改进了视区的使用情况。 可以在[查看器设置面板](https://helpx.adobe.com/cn/substance-3d/unlisted/documentation/sadoc/viewer-settings-188973164.html)中访问这些新设置。
 
 * **相机模式**\
   相机投影模式允许在“透视”和“正交”之间进行选择。

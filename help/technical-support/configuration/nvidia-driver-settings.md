@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/technical-support/configuration/nvidia-driver-settings.html"
+helpx_url: "https://helpx.adobe.com/cn/substance-3d-sampler/technical-support/configuration/nvidia-driver-settings.html"
 breadcrumb-title: ''
 description: 了解如何为Substance 3D Sampler配置NVIDIA驱动程序设置，以优化GPU性能并解决“迟缓”行为。
 helpx_creative_field: ""

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/interface/panels/metadata-panel.html"
+helpx_url: "https://helpx.adobe.com/cn/substance-3d-sampler/interface/panels/metadata-panel.html"
 breadcrumb-title: ''
 description: 了解如何使用Substance 3D Sampler中的“元数据”面板添加和管理素材的元数据信息。
 helpx_creative_field: ""

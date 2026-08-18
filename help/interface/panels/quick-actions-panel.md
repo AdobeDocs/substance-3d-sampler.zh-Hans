@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/interface/panels/quick-actions-panel.html"
+helpx_url: "https://helpx.adobe.com/cn/substance-3d-sampler/interface/panels/quick-actions-panel.html"
 breadcrumb-title: ''
 description: 了解如何使用Substance 3D Sampler中的“快速操作”面板访问常见的素材编辑任务和快捷键。
 helpx_creative_field: ""

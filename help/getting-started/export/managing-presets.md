@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/getting-started/export/managing-presets.html"
+helpx_url: "https://helpx.adobe.com/cn/substance-3d-sampler/getting-started/export/managing-presets.html"
 breadcrumb-title: ''
 description: 了解如何在Substance 3D Sampler中管理导出预设，以为不同的应用程序和管道配置材质。
 helpx_creative_field: ""

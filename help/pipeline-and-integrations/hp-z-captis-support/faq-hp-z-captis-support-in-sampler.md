@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/pipeline-and-integrations/hp-z-captis-support/faq-hp-z-captis-support-in-sampler.html"
+helpx_url: "https://helpx.adobe.com/cn/substance-3d-sampler/pipeline-and-integrations/hp-z-captis-support/faq-hp-z-captis-support-in-sampler.html"
 breadcrumb-title: ''
 description: 访问有关Substance 3D Sampler中HP Z Captis支持的常见问题以查找有关硬件集成和使用情况的答案。
 helpx_creative_field: ""
@@ -100,7 +100,7 @@ HP Z Captis设备由Adobe Substance 3D Sampler完全控制和运行：您可以�
 +++扫描素材可以导出为哪些格式？
 HP Z Captis由Adobe Substance 3D Sampler本机运行。 HP Z Captis可捕捉64张原始图像（可从您的本地文件夹中检索）和PBR映射（可从捕捉的原始图像中进行处理并在Substance 3D Sampler中自动加载）。 Substance 3D Sampler将基于PBR通道创建3d素材，捕捉后自动加载到Sampler图层栈栈中。
 
-从Adobe Substance 3D Sampler中，可以将数字素材导出为Substance 3D Sampler中可用的任何导出格式：Substance文件（.SBS和.SBSAR文件）或位图纹理（包括.PNG、.JPG、.TIFF..）（请参阅Sampler文档网页上的详细信息： [https://helpx.adobe.com/substance-3d-sampler/getting-started/export.html](../../getting-started/export/export.md)）。
+从Adobe Substance 3D Sampler中，可以将数字素材导出为Substance 3D Sampler中可用的任何导出格式：Substance文件（.SBS和.SBSAR文件）或位图纹理（包括.PNG、.JPG、.TIFF..）（请参阅Sampler文档网页上的详细信息： [https://helpx.adobe.com/cn/substance-3d-sampler/getting-started/export.html](../../getting-started/export/export.md)）。
 
 +++
 

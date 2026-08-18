@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/technical-support/technical-issues/stability-issues/crash-when-using-the-image-to-material-or-delighter.html"
+helpx_url: "https://helpx.adobe.com/cn/substance-3d-sampler/technical-support/technical-issues/stability-issues/crash-when-using-the-image-to-material-or-delighter.html"
 breadcrumb-title: ''
 description: 了解如何修复在Substance 3D Sampler中使用“图像到材质”或“Delighter”滤镜时由于VRAM不足而导致的崩溃问题。
 helpx_creative_field: ""

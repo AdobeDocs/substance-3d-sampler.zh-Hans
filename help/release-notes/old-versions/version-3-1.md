@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/release-notes/old-versions/version-3-1.html"
+helpx_url: "https://helpx.adobe.com/cn/substance-3d-sampler/release-notes/old-versions/version-3-1.html"
 breadcrumb-title: ''
 description: 查看Substance 3D Sampler版本3.1的发行说明，了解拾色器、SVG支持以及互操作性改进。
 helpx_creative_field: ""

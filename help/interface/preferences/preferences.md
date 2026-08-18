@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/interface/preferences.html"
+helpx_url: "https://helpx.adobe.com/cn/substance-3d-sampler/interface/preferences.html"
 breadcrumb-title: ''
 description: 了解如何在Substance 3D Sampler中配置首选项以自定义应用程序设置并优化您的工作流程。
 helpx_creative_field: ""

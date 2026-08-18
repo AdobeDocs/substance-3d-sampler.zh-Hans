@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/interface.html"
+helpx_url: "https://helpx.adobe.com/cn/substance-3d-sampler/interface.html"
 breadcrumb-title: ''
 description: 了解Substance 3D Sampler界面，包括视区、侧边栏和面板，以便高效地导航和使用应用程序。
 helpx_creative_field: ""

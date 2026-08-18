@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/technical-support/technical-issues/performance-issues/interface-lags-when-interacting-with-the-layer-stack-or-other-elements.html"
+helpx_url: "https://helpx.adobe.com/cn/substance-3d-sampler/technical-support/technical-issues/performance-issues/interface-lags-when-interacting-with-the-layer-stack-or-other-elements.html"
 breadcrumb-title: ''
 description: 了解如何修复Substance 3D Sampler中由旧版Wacom驱动程序导致的界面延迟问题或其他兼容性问题。
 helpx_creative_field: ""

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/interface/panels/exposed-parameters-panel.html"
+helpx_url: "https://helpx.adobe.com/cn/substance-3d-sampler/interface/panels/exposed-parameters-panel.html"
 breadcrumb-title: ''
 description: 了解如何使用Substance 3D Sampler中的公开参数面板来显示用于外部编辑的滤镜参数。
 helpx_creative_field: ""

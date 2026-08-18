@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/interface/preferences/layer-resolution.html"
+helpx_url: "https://helpx.adobe.com/cn/substance-3d-sampler/interface/preferences/layer-resolution.html"
 breadcrumb-title: ''
 description: 了解如何在Substance 3D Sampler中配置图层分辨率以控制素材栈栈中单个图层的分辨率。
 helpx_creative_field: ""

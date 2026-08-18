@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/technical-support/technical-issues/interface-issues/main-interface-is-transparent.html"
+helpx_url: "https://helpx.adobe.com/cn/substance-3d-sampler/technical-support/technical-issues/interface-issues/main-interface-is-transparent.html"
 breadcrumb-title: ''
 description: 了解如何通过调整GPU驱动程序设置和消除锯齿选项来修复Substance 3D Sampler中的透明界面问题。
 helpx_creative_field: ""

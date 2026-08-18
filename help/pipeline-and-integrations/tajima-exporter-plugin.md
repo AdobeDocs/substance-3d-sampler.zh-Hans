@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/pipeline-and-integrations/tajima-exporter-plugin.html"
+helpx_url: "https://helpx.adobe.com/cn/substance-3d-sampler/pipeline-and-integrations/tajima-exporter-plugin.html"
 breadcrumb-title: ''
 description: 了解如何在Substance 3D Sampler中使用Tajima Exporter增效工具将刺绣设计导出到Tajima DG17软件。
 helpx_creative_field: ""

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/getting-started/export/default-presets/unity-hdrp-standard.html"
+helpx_url: "https://helpx.adobe.com/cn/substance-3d-sampler/getting-started/export/default-presets/unity-hdrp-standard.html"
 breadcrumb-title: ''
 description: 了解如何使用高清渲染管道的Unity HDRP标准预设从Substance 3D Sampler导出材质。
 helpx_creative_field: ""

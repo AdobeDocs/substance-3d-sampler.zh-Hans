@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/interface/tools-and-widgets.html"
+helpx_url: "https://helpx.adobe.com/cn/substance-3d-sampler/interface/tools-and-widgets.html"
 breadcrumb-title: ''
 description: 了解Substance 3D Sampler界面中的工具和小组件，以快速访问常用的滤镜和界面元素。
 helpx_description: Sampler > Interface > Tools and Widgets
