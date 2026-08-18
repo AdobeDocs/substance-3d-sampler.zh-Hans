@@ -22,4 +22,4 @@ ht-degree: 4%
 
 | 预设 | 兼容性 | 打包输出说明 |
 | --- | --- | --- |
-| UnitySpecular | <ul data-preserve-html="true"><li data-preserve-html="true">PBR金属/粗糙度</li><li data-preserve-html="true">PBRSpecular/光泽度</li></ul> | **反照率：**<ul data-preserve-html="true"><li data-preserve-html="true"><strong>RGB</strong>：基色</li><li data-preserve-html="true"><strong>A</strong>：不透明度</li></ul>**Specular：**<ul data-preserve-html="true"><li data-preserve-html="true"><strong>RGB</strong>：Specular</li><li data-preserve-html="true"><strong>A</strong>：Smoothness</li></ul>**正常** (OpenGL)**Height ****遮蔽****具发射性** |
+| UnitySpecular | <ul data-preserve-html="true"><li data-preserve-html="true">PBR金属/粗糙度</li><li data-preserve-html="true">PBRSpecular/光泽度</li></ul> | **反照率：**<ul data-preserve-html="true"><li data-preserve-html="true"><strong>RGB</strong>：基色</li><li data-preserve-html="true"><strong>A</strong>：不透明度</li></ul>**Specular：**<ul data-preserve-html="true"><li data-preserve-html="true"><strong>RGB</strong>：Specular</li><li data-preserve-html="true"><strong>A</strong>：Smoothness</li></ul>**正常** (OpenGL)**Height &#x200B;**&#x200B;**遮蔽**&#x200B;**具发射性** |

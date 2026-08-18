@@ -22,4 +22,4 @@ ht-degree: 5%
 
 | 预设 | 兼容性 | 打包输出说明 |
 | --- | --- | --- |
-| Enscape - Revit | <ul data-preserve-html="true"><li data-preserve-html="true">PBR金属/粗糙度</li></ul> | **反照率&#x200B;****光泽度****正常(OpenGL)****透明度** |
+| Enscape - Revit | <ul data-preserve-html="true"><li data-preserve-html="true">PBR金属/粗糙度</li></ul> | **反照率&#x200B;**&#x200B;**光泽度**&#x200B;**正常(OpenGL)**&#x200B;**透明度** |

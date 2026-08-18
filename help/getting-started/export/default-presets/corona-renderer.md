@@ -22,7 +22,7 @@ ht-degree: 2%
 
 | 预设 | 兼容性 | 打包输出说明 |
 | --- | --- | --- |
-| Corona渲染器 | <ul data-preserve-html="true"><li data-preserve-html="true">PBR金属/粗糙度</li><li data-preserve-html="true">PBRSpecular/光泽度</li></ul> | **漫射****反射光泽度** (\*)**反射颜色** (\*\*)**菲涅耳光学** (\*\*)**正常&#x200B;****位移****&#x200B;发射****不透明度** |
+| Corona渲染器 | <ul data-preserve-html="true"><li data-preserve-html="true">PBR金属/粗糙度</li><li data-preserve-html="true">PBRSpecular/光泽度</li></ul> | **漫射**&#x200B;**反射光泽度** (\*)**反射颜色** (\*\*)**菲涅耳光学** (\*\*)**正常&#x200B;**&#x200B;**位移**&#x200B;**&#x200B;发射**&#x200B;**不透明度** |
 
 >[!NOTE]
 >

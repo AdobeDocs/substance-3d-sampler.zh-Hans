@@ -22,4 +22,4 @@ ht-degree: 6%
 
 | 预设 | 兼容性 | 打包输出说明 |
 | --- | --- | --- |
-| Redshift | <ul data-preserve-html="true"><li data-preserve-html="true">PBR金属/粗糙度</li></ul> | **扩散&#x200B;****反射粗糙度****金属度&#x200B;****正常****位移&#x200B;****发射****不透明度** |
+| Redshift | <ul data-preserve-html="true"><li data-preserve-html="true">PBR金属/粗糙度</li></ul> | **扩散&#x200B;**&#x200B;**反射粗糙度**&#x200B;**金属度&#x200B;**&#x200B;**正常**&#x200B;**位移&#x200B;**&#x200B;**发射**&#x200B;**不透明度** |
