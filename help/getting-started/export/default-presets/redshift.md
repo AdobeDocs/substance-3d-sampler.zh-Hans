@@ -1,0 +1,25 @@
+---
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/getting-started/export/default-presets/redshift.html"
+breadcrumb-title: ''
+description: 了解如何使用Redshift预设从Substance 3D Sampler导出材质，以与Redshift渲染引擎兼容。
+helpx_creative_field: ""
+helpx_description: Sampler > Getting Started > Export > Default Presets > Redshift
+helpx_experience_level: ""
+helpx_learn_topic: ""
+helpx_tags: ""
+title: Redshift
+user-guide-description: ''
+user-guide-title: ''
+source-git-commit: 55277f7a92e97bf530dd2a2edf4e16c88bb57793
+workflow-type: tm+mt
+source-wordcount: '31'
+ht-degree: 6%
+
+---
+
+
+# Redshift
+
+| 预设 | 兼容性 | 打包输出说明 |
+| --- | --- | --- |
+| Redshift | <ul data-preserve-html="true"><li data-preserve-html="true">PBR金属/粗糙度</li></ul> | **扩散&#x200B;****反射粗糙度****金属度&#x200B;****正常****位移&#x200B;****发射****不透明度** |
