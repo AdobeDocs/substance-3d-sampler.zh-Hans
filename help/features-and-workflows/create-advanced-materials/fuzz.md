@@ -13,4 +13,4 @@ ht-degree: 0%
 
 Fuzz通道有助于为山羊皮和其他织物等材料增添更高级别的真实感。 观看下面的视频，了解如何最好地在Sampler中使用模糊通道。
 
->[!VIDEO](https://video.tv.adobe.com/v/3483519)
+>[!VIDEO](https://video.tv.adobe.com/v/3483531?captions=chi_hans)

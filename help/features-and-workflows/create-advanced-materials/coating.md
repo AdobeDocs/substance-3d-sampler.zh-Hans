@@ -13,4 +13,4 @@ ht-degree: 0%
 
 顾名思义，涂层通道让您可以在素材中添加涂层。 涂层可以有自己的粗糙度值，这可以影响材料的基本粗糙度，有助于产生涂漆或抛光表面等效果。 观看下面的视频，了解如何使用Sampler中的涂层通道从头开始制作涂抹的镶板地板材料。
 
->[!VIDEO](https://video.tv.adobe.com/v/3483521)
+>[!VIDEO](https://video.tv.adobe.com/v/3483553?captions=chi_hans)

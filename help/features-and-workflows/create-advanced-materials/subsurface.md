@@ -13,4 +13,4 @@ ht-degree: 0%
 
 次表面通道对不透明但半透明的材料非常有用，可用来模拟材料表面下的光散射效果。 此效果通常发生在皮肤、树叶和许多塑料等材料上。 观看下面的视频，详细了解地下参数并使用它们创建树脂材料。
 
->[!VIDEO](https://video.tv.adobe.com/v/3483521)
+>[!VIDEO](https://video.tv.adobe.com/v/3483553?captions=chi_hans)
