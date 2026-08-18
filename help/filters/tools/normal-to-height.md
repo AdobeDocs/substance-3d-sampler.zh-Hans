@@ -35,7 +35,7 @@ ht-degree: 2%
 
 根据普通信道生成Height信息。
 
-下图显示正在使用的&#x200B;**正常到Height筛选器**。 在第一图像中，Height地图没有Height信息。 在第二张图像中，应用&#x200B;**正常于Height****滤镜**&#x200B;后，生成了逼真的Height映射。
+下图显示正在使用的&#x200B;**正常到Height筛选器**。 在第一图像中，Height地图没有Height信息。 在第二张图像中，应用&#x200B;**正常于Height**&#x200B;**滤镜**&#x200B;后，生成了逼真的Height映射。
 
 ![](../../assets/3d-2d-filters-cropped-0009-normal-to-height-in.jpg)![](../../assets/filters-cropped-0008-normal-height-out.jpg)
 

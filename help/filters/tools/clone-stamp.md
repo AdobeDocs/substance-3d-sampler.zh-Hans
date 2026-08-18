@@ -141,6 +141,6 @@ ht-degree: 0%
 
 | 操作 | Windows + Linux | MacOs |
 | --- | --- | --- |
-| 增加画笔大小 | ]或Ctrl +鼠标滚轮 | ]或Cmd +鼠标滚轮 |
-| 减小画笔大小 | [或Ctrl +鼠标滚轮 | [或Cmd +鼠标滚轮 |
+| 增加画笔大小 | &rbrack;或Ctrl +鼠标滚轮 | &rbrack;或Cmd +鼠标滚轮 |
+| 减小画笔大小 | &lbrack;或Ctrl +鼠标滚轮 | &lbrack;或Cmd +鼠标滚轮 |
 | 设置源 | Ctrl +左键单击 | Cmd +左键单击 |

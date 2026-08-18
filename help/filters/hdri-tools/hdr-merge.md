@@ -43,7 +43,7 @@ ht-degree: 2%
 
 ![](../../assets/3d-2d-filters-cropped-0026-hdr-merge-out.jpg)
 
-添加&#x200B;**HDR合并****滤镜**&#x200B;后，球面反射新的环境光 — 从输入图像生成的HDR图像。
+添加&#x200B;**HDR合并**&#x200B;**滤镜**&#x200B;后，球面反射新的环境光 — 从输入图像生成的HDR图像。
 
 </td>
 </tr>

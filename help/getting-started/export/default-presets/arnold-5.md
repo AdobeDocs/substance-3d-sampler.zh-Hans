@@ -22,4 +22,4 @@ ht-degree: 5%
 
 | 预设 | 兼容性 | 打包输出说明 |
 | --- | --- | --- |
-| Arnold 5 | <ul data-preserve-html="true"><li data-preserve-html="true">PBR金属/粗糙度</li></ul> | **基色&#x200B;****粗糙度****金属度****正常** (OpenGL)**位移&#x200B;****发射度****&#x200B;不透明度** |
+| Arnold 5 | <ul data-preserve-html="true"><li data-preserve-html="true">PBR金属/粗糙度</li></ul> | **基色&#x200B;**&#x200B;**粗糙度**&#x200B;**金属度**&#x200B;**正常** (OpenGL)**位移&#x200B;**&#x200B;**发射度**&#x200B;**&#x200B;不透明度** |

@@ -26,7 +26,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
-> 您可以在文章](https://www.adobe.com/products/substance3d/magazine/your-smartphone-is-a-material-scanner-vol-ii.html)中查找有关如何创建自己的素材扫描仪[的更多信息。
+> 您可以在文章[&#128279;](https://www.adobe.com/products/substance3d/magazine/your-smartphone-is-a-material-scanner-vol-ii.html)中查找有关如何创建自己的素材扫描仪的更多信息。
 
 ## 示例
 
