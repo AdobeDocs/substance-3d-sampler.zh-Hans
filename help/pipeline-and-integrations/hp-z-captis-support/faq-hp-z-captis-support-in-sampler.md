@@ -116,7 +116,7 @@ HP Z Captis由Adobe Substance 3D Sampler本机运行。 HP Z Captis可捕捉64�
 +++如果使用特定的文件格式、标准和规范或第三方应用程序，如何在当前的3D管道中使用Captis？
 HP Z Captis由Adobe Substance 3D Sampler本机运行。 在Substance 3D Sampler中捕获素材样本并将其数字化后，您可以无缝导出数字素材：
 
-在Substance 3D生态系统的任何应用程序中（包括支持各种导出格式的Substance 3D Designer或Substance 3D Painter： https://experienceleague.adobe.com/en/docs/substance-3d/general-knowledge/ecosystem/import-and-export-formats）。
+在Substance 3D生态系统的任何应用程序中（包括支持各种导出格式的Substance 3D Designer或Substance 3D Painter： https://experienceleague.adobe.com/zh-hans/docs/substance-3d/general-knowledge/ecosystem/import-and-export-formats）。
 
 在将Substance文件格式集成为3DS Max、Maya、Blender、C4D、Rhino、Browzwear、CLO...的任何应用程序中（请参阅下面的完整列表： <https://www.adobe.com/products/substance3d/plugins.html>）。 如果您使用的应用程序未列在此处，您始终可以导出PBR纹理图像，并在任何本机不支持Substance文件格式的应用程序中手动插入这些图像。
 
