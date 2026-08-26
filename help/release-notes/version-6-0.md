@@ -4,10 +4,10 @@ description: 查看Substance 3D Sampler版本6.0的发行说明，了解新增�
 title: 版本6.0
 user-guide-description: ''
 user-guide-title: ''
-source-git-commit: fe26cb37891204d5b93265643c23d8e717b3d524
+source-git-commit: 56f4ac8b2b5ec271edb8338d51f8ac51e6746c6c
 workflow-type: tm+mt
-source-wordcount: '1357'
-ht-degree: 2%
+source-wordcount: '1627'
+ht-degree: 1%
 
 ---
 
@@ -60,9 +60,49 @@ Sampler现在允许您通过单击启动HP Z Captis拍摄，该目标区域可�
 
 ## V6.0发行说明
 
+### **6.0.3**
+
+*（发布日期：2026年8月24日）*
+
+**已修复：**
+
+[渲染]恢复错误的NVIDIA驱动程序的临时解决方法
+
+### **6.0.2**
+
+*（发布日期：2026年6月25日）*
+
+**已添加：**
+
+* &amp;lbrack；Assets&amp;rbrack；检查sbsar版本并警告用户引擎太旧，无法读取
+* &amp;lbrack；Captis&amp;rbrack；添加返回选项以在首选项中保存captis测光法
+
+**已修复：**
+
+* &amp;lbrack；2D视图&amp;rbrack；如果禁用物理尺寸，则不“以物理比例显示”
+* &amp;lbrack；分析&amp;rbrack；缺少分析事件
+* &amp;lbrack；Analytics&amp;rbrack；阻止使用崩溃面板报告vk设备崩溃丢失
+* &amp;lbrack；Application&amp;rbrack；不要在退出时销毁vkdevices以避免nvidia驱动程序崩溃
+* &amp;lbrack；应用程序&amp;rbrack；修复链接集合观察程序退出+通道管理器
+* &amp;lbrack；Application&amp;rbrack；防止在退出时崩溃
+* &amp;lbrack；Content&amp;rbrack；“金属光洁度”滤镜不影响金属度
+* &amp;lbrack；Content&amp;rbrack；将物理尺寸添加到动态滤镜中缺少的内容
+* &amp;lbrack；Filters&amp;rbrack；从隐藏资源列表中移除内容识别填充
+* &amp;lbrack；Layers&amp;rbrack；单击“重置所有设置”不会重置“应用于”下拉菜单
+* 打包；图层&amp;打包；调整位置Widget的最小值和最大值(&amp;L)
+* &amp;lbrack；图层&amp;rbrack；正确更新滤镜
+* &amp;lbrack；物理尺寸&amp;rbrack；确保物理缩放适用于所有地方+使用动态滤镜确保物理大小正常
+* &amp;lbrack；Project&amp;rbrack；确保创建新资源时的资源分辨率为默认分辨率(2k x 2k)
+* &amp;lbrack；Project&amp;rbrack；重新打开用于打开先前版本的当前项目
+* &amp;lbrack；Project&amp;rbrack； Sampler不再提供恢复损坏项目备份的功能
+* &amp;lbrack；渲染&amp;rbrack；以最大2k分辨率渲染素材缩览图
+* &amp;lbrack；UI&amp;rbrack；用于避免用户速度超过UI时崩溃的防御代码
+
+### **6.0.1**
+
 *（发布日期：2026年4月16日）*
 
-## 已添加：
+**已添加：**
 
 * [3D视图]以USD格式提供默认网格
 * [应用程序]检测当前材质模型中不可用的素材的使用情况
@@ -110,7 +150,7 @@ Sampler现在允许您通过单击启动HP Z Captis拍摄，该目标区域可�
 * [UI]频道列表版本中的搜索实现
 * [UI]将快照保存到文件时显示通知
 
-## 已修复：
+**已修复：**
 
 * [2D视图]根据规范中的结果使用索引对2D视图进行排序
 * [应用程序]修复启动时出现的崩溃
@@ -194,7 +234,7 @@ Sampler现在允许您通过单击启动HP Z Captis拍摄，该目标区域可�
 * 调整图像的使用情况时，[UI]更新通道设置
 * [UI]在材质模型转换弹出窗口中更新措辞
 
-## 已删除：
+## 已删除
 
 * [UI]删除3D 捕捉菜单项
 * [UI]移除生成式AI面板
