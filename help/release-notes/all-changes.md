@@ -6,9 +6,9 @@ helpx_description: Sampler > Release Notes > All Changes
 title: 所有更改
 user-guide-description: ''
 user-guide-title: ''
-source-git-commit: dc832dc546735437051226f4e1e731b55147b3ea
+source-git-commit: 0484ed7ae81bd16687abe23ac0ce8f5ad84d1888
 workflow-type: tm+mt
-source-wordcount: '24926'
+source-wordcount: '24940'
 ht-degree: 0%
 
 ---
@@ -19,6 +19,14 @@ ht-degree: 0%
 此页面将重新组合发生在Substance 3D Sampler上的所有更改，从新增功能到错误修复。
 
 ## 版本6
+
+### **6.0.3**
+
+*（发布日期：2026年8月24日）*
+
+**已修复：**
+
+[渲染]恢复错误的NVIDIA驱动程序的临时解决方法
 
 ### **6.0.2**
 
