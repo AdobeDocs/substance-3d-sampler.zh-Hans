@@ -22,4 +22,4 @@ ht-degree: 4%
 
 | 预设 | 兼容性 | 打包输出说明 |
 | --- | --- | --- |
-| V-Ray下一个 | <ul data-preserve-html="true"><li data-preserve-html="true">PBR金属/粗糙度</li></ul> | **Diffuse ****粗糙度****金属度&#x200B;****正常****位移****自模糊** **不透明度** |
+| V-Ray下一个 | <ul data-preserve-html="true"><li data-preserve-html="true">PBR金属/粗糙度</li></ul> | **Diffuse &#x200B;**&#x200B;**粗糙度**&#x200B;**金属度&#x200B;**&#x200B;**正常**&#x200B;**位移**&#x200B;**自模糊** **不透明度** |

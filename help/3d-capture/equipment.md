@@ -58,4 +58,4 @@ ht-degree: 0%
 
 设置好所有内容后，想法很简单：拍摄大量照片，<b>全360度循环。 在至少5个不同的循环</b>中，每次旋转16次拍摄是一个不错的数字。 一个<b>从侧面</b>开始，两个<b>从不同的Height</b>开始，分别用于底部和顶部。
 
-现在进一步了解您将需要用于3D 捕捉过程](camera-settings-exposure-substance-3d-sampler.md)的C[相机设置。
+现在进一步了解您将需要用于3D 捕捉过程[&#128279;](camera-settings-exposure-substance-3d-sampler.md)的C相机设置。

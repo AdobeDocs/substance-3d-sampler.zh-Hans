@@ -22,4 +22,4 @@ ht-degree: 4%
 
 | 预设 | 兼容性 | 打包输出说明 |
 | --- | --- | --- |
-| 虚引擎4 | <ul data-preserve-html="true"><li data-preserve-html="true">PBR金属/粗糙度</li></ul> | **BaseColor****OcclusionRoughnessMetallic：**<ul data-preserve-html="true"><li data-preserve-html="true"><strong>R</strong>：Ambient occlusion</li><li data-preserve-html="true"><strong>G</strong>：粗糙度</li><li data-preserve-html="true"><strong>B</strong>：金属</li></ul>**正常&#x200B;****Height****Emissive** |
+| 虚引擎4 | <ul data-preserve-html="true"><li data-preserve-html="true">PBR金属/粗糙度</li></ul> | **BaseColor**&#x200B;**OcclusionRoughnessMetallic：**<ul data-preserve-html="true"><li data-preserve-html="true"><strong>R</strong>：Ambient occlusion</li><li data-preserve-html="true"><strong>G</strong>：粗糙度</li><li data-preserve-html="true"><strong>B</strong>：金属</li></ul>**正常&#x200B;**&#x200B;**Height**&#x200B;**Emissive** |
