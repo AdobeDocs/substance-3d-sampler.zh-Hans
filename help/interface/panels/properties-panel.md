@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/interface/panels/properties-panel.html"
+helpx_url: "https://helpx.adobe.com/cn/substance-3d-sampler/interface/panels/properties-panel.html"
 breadcrumb-title: ''
 description: 了解如何使用Substance 3D Sampler中的“属性”面板查看和编辑滤镜参数和材料属性。
 helpx_creative_field: ""

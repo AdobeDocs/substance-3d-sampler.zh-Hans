@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/generators/quilt-stitch.html"
+helpx_url: "https://helpx.adobe.com/cn/substance-3d-sampler/filters/generators/quilt-stitch.html"
 breadcrumb-title: ''
 description: 使用Substance 3D Sampler中的“面组拼接”生成器为材料创建面组织物图案和拼接纹理。
 helpx_creative_field: ""

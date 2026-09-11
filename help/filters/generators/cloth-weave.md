@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/generators/cloth-weave.html"
+helpx_url: "https://helpx.adobe.com/cn/substance-3d-sampler/filters/generators/cloth-weave.html"
 breadcrumb-title: ''
 description: 使用Substance 3D Sampler中的布料编织生成器创建用于制作材料的织物编织图案和织物纹理。
 helpx_creative_field: ""

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/generators/pattern.html"
+helpx_url: "https://helpx.adobe.com/cn/substance-3d-sampler/filters/generators/pattern.html"
 breadcrumb-title: ''
 description: 使用Substance 3D Sampler中的图案生成器为材料纹理创建程序化的图案和重复设计。
 helpx_creative_field: ""

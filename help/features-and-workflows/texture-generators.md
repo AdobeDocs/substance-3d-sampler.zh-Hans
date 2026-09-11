@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/features-and-workflows/texture-generators.html"
+helpx_url: "https://helpx.adobe.com/cn/substance-3d-sampler/features-and-workflows/texture-generators.html"
 breadcrumb-title: ''
 description: 了解如何在Substance 3D Sampler中使用纹理生成器为材料创建创建程序化的纹理和图案。
 helpx_creative_field: ""
@@ -137,4 +137,4 @@ ht-degree: 1%
 
 >[!NOTE]
 >
-> 您可以在Sampler中公开滤镜参数以直接控制滤镜。 了解如何[此处](https://experienceleague.adobe.com/en/docs/substance-3d-designer/using/substance-graphs/manage-parameters/exposing-a-parameter)
+> 您可以在Sampler中公开滤镜参数以直接控制滤镜。 了解如何[此处](https://experienceleague.adobe.com/zh-hans/docs/substance-3d-designer/using/substance-graphs/manage-parameters/exposing-a-parameter)

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/wear-and-finish/rust.html"
+helpx_url: "https://helpx.adobe.com/cn/substance-3d-sampler/filters/wear-and-finish/rust.html"
 breadcrumb-title: ''
 description: 使用Substance 3D Sampler中的铁锈滤镜为金属材料和表面添加逼真的铁锈和腐蚀效果。
 helpx_creative_field: ""

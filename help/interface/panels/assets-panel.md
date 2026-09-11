@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/interface/panels/assets-panel.html"
+helpx_url: "https://helpx.adobe.com/cn/substance-3d-sampler/interface/panels/assets-panel.html"
 breadcrumb-title: ''
 description: 了解如何使用Substance 3D Sampler中的资源面板浏览、整理和访问您的材料资源和资源。
 helpx_creative_field: ""

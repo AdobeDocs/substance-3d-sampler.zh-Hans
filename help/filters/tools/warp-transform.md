@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/tools/warp-transform.html"
+helpx_url: "https://helpx.adobe.com/cn/substance-3d-sampler/filters/tools/warp-transform.html"
 breadcrumb-title: ''
 description: 使用Substance 3D Sampler中的“变形变换”工具将非线性变形和扭曲效果应用于纹理和材料。
 helpx_creative_field: ""

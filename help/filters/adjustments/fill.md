@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/adjustments/fill.html"
+helpx_url: "https://helpx.adobe.com/cn/substance-3d-sampler/filters/adjustments/fill.html"
 breadcrumb-title: ''
 description: 使用Substance 3D Sampler中的“填充”滤镜，为纹理创建工作流程用纯色或图案填充材料区域。
 helpx_creative_field: ""

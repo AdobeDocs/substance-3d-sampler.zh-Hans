@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/interface/panels/physical-size-panel.html"
+helpx_url: "https://helpx.adobe.com/cn/substance-3d-sampler/interface/panels/physical-size-panel.html"
 breadcrumb-title: ''
 description: 了解如何使用Substance 3D Sampler中的“物理尺寸”面板为材料和纹理设置现实尺寸。
 helpx_creative_field: ""

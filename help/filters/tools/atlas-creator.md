@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/tools/atlas-creator.html"
+helpx_url: "https://helpx.adobe.com/cn/substance-3d-sampler/filters/tools/atlas-creator.html"
 breadcrumb-title: ''
 description: 使用Substance 3D Sampler中的贴图集创建器工具，从多个图像创建纹理贴图集，以便高效地整理材料。
 helpx_creative_field: ""

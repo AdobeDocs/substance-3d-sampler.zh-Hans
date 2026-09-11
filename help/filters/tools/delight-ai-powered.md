@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/tools/delight-ai-powered.html"
+helpx_url: "https://helpx.adobe.com/cn/substance-3d-sampler/filters/tools/delight-ai-powered.html"
 breadcrumb-title: ''
 description: 在Substance 3D Sampler中使用AI驱动的“消光”滤镜从图像中删除光照信息并创建中性基础材质。
 helpx_creative_field: ""

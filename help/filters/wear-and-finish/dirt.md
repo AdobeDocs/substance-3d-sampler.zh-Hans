@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/wear-and-finish/dirt.html"
+helpx_url: "https://helpx.adobe.com/cn/substance-3d-sampler/filters/wear-and-finish/dirt.html"
 breadcrumb-title: ''
 description: 使用Substance 3D Sampler中的Dirt滤镜，为材料和纹理添加逼真的Dirt积累和颗粒效果。
 helpx_creative_field: ""

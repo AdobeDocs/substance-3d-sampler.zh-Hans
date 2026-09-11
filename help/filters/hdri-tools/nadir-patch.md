@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/hdri-tools/nadir-patch.html"
+helpx_url: "https://helpx.adobe.com/cn/substance-3d-sampler/filters/hdri-tools/nadir-patch.html"
 breadcrumb-title: ''
 description: 使用Substance 3D Sampler中的Nadir Patch工具修补HDRI图像的低点区域，从而实现无缝环境图。
 helpx_creative_field: ""

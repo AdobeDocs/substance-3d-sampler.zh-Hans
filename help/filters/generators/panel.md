@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/generators/panel.html"
+helpx_url: "https://helpx.adobe.com/cn/substance-3d-sampler/filters/generators/panel.html"
 breadcrumb-title: ''
 description: 使用Substance 3D Sampler中的面板生成器为材料创建面板图案和分段表面纹理。
 helpx_creative_field: ""

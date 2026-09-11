@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/tools/tiling.html"
+helpx_url: "https://helpx.adobe.com/cn/substance-3d-sampler/filters/tools/tiling.html"
 breadcrumb-title: ''
 description: 使用Substance 3D Sampler中的拼贴工具，通过纹理为可重复的拼贴表面创建无缝的材料图案。
 helpx_creative_field: ""

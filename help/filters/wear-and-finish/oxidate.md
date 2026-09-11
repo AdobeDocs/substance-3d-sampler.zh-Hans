@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/wear-and-finish/oxidate.html"
+helpx_url: "https://helpx.adobe.com/cn/substance-3d-sampler/filters/wear-and-finish/oxidate.html"
 breadcrumb-title: ''
 description: 使用Substance 3D Sampler中的“Oxidate”（氧化）滤镜，为陈旧的金属外观材料添加氧化和褪色效果。
 helpx_creative_field: ""

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/technical-support/technical-issues.html"
+helpx_url: "https://helpx.adobe.com/cn/substance-3d-sampler/technical-support/technical-issues.html"
 breadcrumb-title: ''
 description: 访问Substance 3D Sampler中常见技术问题的故障排除指南，以解决问题并优化性能。
 helpx_creative_field: ""

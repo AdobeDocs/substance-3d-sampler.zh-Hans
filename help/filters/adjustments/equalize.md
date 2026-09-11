@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/adjustments/equalize.html"
+helpx_url: "https://helpx.adobe.com/cn/substance-3d-sampler/filters/adjustments/equalize.html"
 breadcrumb-title: ''
 description: 使用Substance 3D Sampler中的“色调均化”滤镜，可自动重新分布亮度值并增强图像对比度。
 helpx_creative_field: ""

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/tools/match.html"
+helpx_url: "https://helpx.adobe.com/cn/substance-3d-sampler/filters/tools/match.html"
 breadcrumb-title: ''
 description: 使用Substance 3D Sampler中的“匹配”工具来匹配不同纹理和材料图层之间的颜色、色调和光照。
 helpx_creative_field: ""

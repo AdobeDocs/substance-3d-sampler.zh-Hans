@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/generators/pavement.html"
+helpx_url: "https://helpx.adobe.com/cn/substance-3d-sampler/filters/generators/pavement.html"
 breadcrumb-title: ''
 description: 使用Substance 3D Sampler中的路面生成器，为材料创建逼真的路面和路面纹理。
 helpx_creative_field: ""

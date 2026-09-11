@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/getting-started/export/export-window.html"
+helpx_url: "https://helpx.adobe.com/cn/substance-3d-sampler/getting-started/export/export-window.html"
 breadcrumb-title: ''
 description: 了解如何使用Substance 3D Sampler中的导出窗口配置和导出各种格式和预设的材料。
 helpx_creative_field: ""

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/adjustments/vibrance.html"
+helpx_url: "https://helpx.adobe.com/cn/substance-3d-sampler/filters/adjustments/vibrance.html"
 breadcrumb-title: ''
 description: 使用Substance 3D Sampler中的“自然饱和度”滤镜增强纹理的色彩饱和度和自然饱和度，同时保留肤色。
 helpx_creative_field: ""

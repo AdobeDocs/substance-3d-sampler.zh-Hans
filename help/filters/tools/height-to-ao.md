@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/tools/height-to-ao.html"
+helpx_url: "https://helpx.adobe.com/cn/substance-3d-sampler/filters/tools/height-to-ao.html"
 breadcrumb-title: ''
 description: 使用Substance 3D Sampler中的“Height到AO”工具将高度图转换为ambient occlusion映射以创建材料。
 helpx_creative_field: ""

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/interface/panels/project-panel.html"
+helpx_url: "https://helpx.adobe.com/cn/substance-3d-sampler/interface/panels/project-panel.html"
 breadcrumb-title: ''
 description: 了解如何使用Substance 3D Sampler中的“项目”面板管理项目文件、保存工作以及访问最近的项目。
 helpx_creative_field: ""

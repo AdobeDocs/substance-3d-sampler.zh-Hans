@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/hdri-tools/shape-light.html"
+helpx_url: "https://helpx.adobe.com/cn/substance-3d-sampler/filters/hdri-tools/shape-light.html"
 breadcrumb-title: ''
 description: 使用Substance 3D Sampler中的“形状光照”工具将自定义形状的光源添加到HDRI环境中，以实现创意光照。
 helpx_creative_field: ""

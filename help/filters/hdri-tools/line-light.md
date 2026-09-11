@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/hdri-tools/line-light.html"
+helpx_url: "https://helpx.adobe.com/cn/substance-3d-sampler/filters/hdri-tools/line-light.html"
 breadcrumb-title: ''
 description: 使用Substance 3D Sampler中的“线光”工具将线性光源添加到HDRI环境中，以实现精确的光照控制。
 helpx_creative_field: ""

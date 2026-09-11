@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/tools/upscale.html"
+helpx_url: "https://helpx.adobe.com/cn/substance-3d-sampler/filters/tools/upscale.html"
 breadcrumb-title: ''
 description: 使用Substance 3D Sampler中的“放大”工具，利用AI支持的放大技术提高纹理分辨率。
 helpx_creative_field: ""

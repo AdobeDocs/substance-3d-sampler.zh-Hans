@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/wear-and-finish/discarded-gums.html"
+helpx_url: "https://helpx.adobe.com/cn/substance-3d-sampler/filters/wear-and-finish/discarded-gums.html"
 breadcrumb-title: ''
 description: 在Substance 3D Sampler中使用“丢弃的牙龈滤镜”，为材料添加残留的牙龈和粘性表面效果。
 helpx_creative_field: ""

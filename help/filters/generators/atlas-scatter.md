@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/generators/atlas-scatter.html"
+helpx_url: "https://helpx.adobe.com/cn/substance-3d-sampler/filters/generators/atlas-scatter.html"
 breadcrumb-title: ''
 description: 使用Substance 3D Sampler中的Atlas Scatter生成器，在材料表面上从纹理地图集中散点元素。
 helpx_creative_field: ""

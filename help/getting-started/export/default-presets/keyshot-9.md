@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/getting-started/export/default-presets/keyshot-9.html"
+helpx_url: "https://helpx.adobe.com/cn/substance-3d-sampler/getting-started/export/default-presets/keyshot-9.html"
 breadcrumb-title: ''
 description: 了解如何使用Keyshot 9预设从Substance 3D Sampler导出材料，以实现与Keyshot渲染的兼容性。
 helpx_creative_field: ""

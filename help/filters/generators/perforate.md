@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/generators/perforate.html"
+helpx_url: "https://helpx.adobe.com/cn/substance-3d-sampler/filters/generators/perforate.html"
 breadcrumb-title: ''
 description: 使用Substance 3D Sampler中的穿孔生成器在材料和纹理中创建穿孔图案和孔阵列。
 helpx_creative_field: ""

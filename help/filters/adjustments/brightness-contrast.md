@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/adjustments/brightness-contrast.html"
+helpx_url: "https://helpx.adobe.com/cn/substance-3d-sampler/filters/adjustments/brightness-contrast.html"
 breadcrumb-title: ''
 description: 使用Substance 3D Sampler中的“亮度/对比度”滤镜调整纹理和材料图层中的亮度和对比度级别。
 helpx_creative_field: ""

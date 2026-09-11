@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/hdri-tools/nadir-extract.html"
+helpx_url: "https://helpx.adobe.com/cn/substance-3d-sampler/filters/hdri-tools/nadir-extract.html"
 breadcrumb-title: ''
 description: 使用Substance 3D Sampler中的“Nadir Extract”工具提取最低点区域，并将其与HDRI环境图像隔离。
 helpx_creative_field: ""

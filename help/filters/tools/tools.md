@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/tools.html"
+helpx_url: "https://helpx.adobe.com/cn/substance-3d-sampler/filters/tools.html"
 breadcrumb-title: ''
 description: 了解如何使用Substance 3D Sampler中的工具筛选器修复技术问题并增强材料创建工作流程。
 helpx_creative_field: ""
@@ -51,7 +51,7 @@ Sampler包括以下工具：
 * [匹配](match.md)
 * [多角度转材质](multiangle-to-material.md)
 * [正常到Height](normal-to-height.md)
-* [绘画变形](https://helpx.adobe.com/substance-3d/unlisted/documentation/sadoc/paint-warp-255426602.html)
+* [绘画变形](https://helpx.adobe.com/cn/substance-3d/unlisted/documentation/sadoc/paint-warp-255426602.html)
 * [PBR 验证](pbr-validate.md)
 * [透视校正](perspective-correction.md)
 * [平铺](tiling.md)

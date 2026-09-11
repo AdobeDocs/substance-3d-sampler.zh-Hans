@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/tools/transform.html"
+helpx_url: "https://helpx.adobe.com/cn/substance-3d-sampler/filters/tools/transform.html"
 breadcrumb-title: ''
 description: 使用Substance 3D Sampler中的变换工具来缩放、旋转、平移和操作纹理和材料图层。
 helpx_creative_field: ""

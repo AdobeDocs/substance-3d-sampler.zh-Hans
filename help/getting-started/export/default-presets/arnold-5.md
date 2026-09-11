@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/getting-started/export/default-presets/arnold-5.html"
+helpx_url: "https://helpx.adobe.com/cn/substance-3d-sampler/getting-started/export/default-presets/arnold-5.html"
 breadcrumb-title: ''
 description: 了解如何使用Arnold 5预设从Substance 3D Sampler导出材料，以与Arnold渲染引擎兼容。
 helpx_creative_field: ""

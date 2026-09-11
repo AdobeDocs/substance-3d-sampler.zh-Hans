@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/tools/atlas-splitter.html"
+helpx_url: "https://helpx.adobe.com/cn/substance-3d-sampler/filters/tools/atlas-splitter.html"
 breadcrumb-title: ''
 description: 使用Substance 3D Sampler中的Atlas Splitter工具将纹理地图集拆分为单个纹理地图，以进行材料编辑。
 helpx_creative_field: ""

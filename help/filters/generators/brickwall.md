@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/generators/brickwall.html"
+helpx_url: "https://helpx.adobe.com/cn/substance-3d-sampler/filters/generators/brickwall.html"
 breadcrumb-title: ''
 description: 使用Substance 3D Sampler中的墙壁生成器为材料创建逼真的砖块墙壁图案和砖墙纹理。
 helpx_creative_field: ""

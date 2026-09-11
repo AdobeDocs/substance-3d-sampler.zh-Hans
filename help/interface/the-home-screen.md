@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/interface/the-home-screen.html"
+helpx_url: "https://helpx.adobe.com/cn/substance-3d-sampler/interface/the-home-screen.html"
 breadcrumb-title: ''
 description: 了解如何使用Substance 3D Sampler中的主屏幕访问最近的项目、创建新材料以及快速开始使用。
 helpx_creative_field: ""

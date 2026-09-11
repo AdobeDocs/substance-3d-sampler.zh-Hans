@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/tools/clone-stamp.html"
+helpx_url: "https://helpx.adobe.com/cn/substance-3d-sampler/filters/tools/clone-stamp.html"
 breadcrumb-title: ''
 description: 使用Substance 3D Sampler中的仿制图章工具来仿制和绘画纹理区域，以便无缝地编辑和修复材料。
 helpx_creative_field: ""

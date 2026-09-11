@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/adjustments/color-replace.html"
+helpx_url: "https://helpx.adobe.com/cn/substance-3d-sampler/filters/adjustments/color-replace.html"
 breadcrumb-title: ''
 description: 使用Substance 3D Sampler中的“颜色替换”滤镜，用新的颜色值替换纹理中的特定颜色。
 helpx_creative_field: ""

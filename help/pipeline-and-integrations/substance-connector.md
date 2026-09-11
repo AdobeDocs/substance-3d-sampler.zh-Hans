@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/pipeline-and-integrations/substance-connector.html"
+helpx_url: "https://helpx.adobe.com/cn/substance-3d-sampler/pipeline-and-integrations/substance-connector.html"
 breadcrumb-title: ''
 description: 了解如何在Substance 3D Sampler中使用Substance发送到，通过连接器将资源直接发送到其他应用程序。
 helpx_creative_field: ""

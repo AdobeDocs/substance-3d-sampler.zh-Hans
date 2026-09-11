@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/tools/height-to-normal.html"
+helpx_url: "https://helpx.adobe.com/cn/substance-3d-sampler/filters/tools/height-to-normal.html"
 breadcrumb-title: ''
 description: 使用Substance 3D Sampler中的“Height到正常”工具将高度图转换为材料创建工作流程的法线图。
 helpx_creative_field: ""

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/getting-started/export/managing-custom-presets.html"
+helpx_url: "https://helpx.adobe.com/cn/substance-3d-sampler/getting-started/export/managing-custom-presets.html"
 breadcrumb-title: ''
 description: 了解如何在Substance 3D Sampler中使用Substance Designer创建和编辑自定义导出预设，以实现工作流程优化。
 helpx_creative_field: ""

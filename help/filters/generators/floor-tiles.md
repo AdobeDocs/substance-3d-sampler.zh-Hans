@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/generators/floor-tiles.html"
+helpx_url: "https://helpx.adobe.com/cn/substance-3d-sampler/filters/generators/floor-tiles.html"
 breadcrumb-title: ''
 description: 使用Substance 3D Sampler中的Floor拼贴生成器，为材料创建逼真的地板拼贴图案和陶瓷纹理。
 helpx_creative_field: ""

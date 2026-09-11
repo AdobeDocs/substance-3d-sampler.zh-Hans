@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/features-and-workflows/use-as-bitmap.html"
+helpx_url: "https://helpx.adobe.com/cn/substance-3d-sampler/features-and-workflows/use-as-bitmap.html"
 breadcrumb-title: ''
 description: 了解如何使用Substance 3D Sampler中的“用作位图”功能将图层转换为位图格式，以便高效编辑材料。
 helpx_creative_field: ""

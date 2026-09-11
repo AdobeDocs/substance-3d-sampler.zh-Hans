@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/getting-started/export/default-presets/v-ray-next.html"
+helpx_url: "https://helpx.adobe.com/cn/substance-3d-sampler/getting-started/export/default-presets/v-ray-next.html"
 breadcrumb-title: ''
 description: 了解如何使用“V-Ray下一步”预设从Substance 3D Sampler导出材料，以与V-Ray渲染兼容。
 helpx_creative_field: ""
