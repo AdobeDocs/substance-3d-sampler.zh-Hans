@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/cn/substance-3d-sampler/interface/the-home-screen.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/interface/the-home-screen.html"
 breadcrumb-title: ''
-description: 了解如何使用Substance 3D Sampler中的主屏幕访问最近的项目、创建新素材以及快速开始使用。
+description: 了解如何使用Substance 3D Sampler中的主屏幕访问最近的项目、创建新材料以及快速开始使用。
 helpx_creative_field: ""
 helpx_description: Sampler > Interface > The Home Screen
 helpx_experience_level: ""
@@ -25,7 +25,7 @@ ht-degree: 0%
 当您打开Sampler时，将显示<b>主屏幕</b>。 <b>主屏幕</b>提供了许多选项，可帮助您开始使用新的或现有的Sampler项目。
 
 1. <b>新建项目</b>：通过导入文件并从一系列快速操作中进行选择来创建新项目。
-1. <b>快速入门</b>：创建新项目并选择素材预设。
+1. <b>快速入门</b>：创建新项目并选择材质预设。
 1. <b>打开</b>：使用系统的文件浏览器打开项目。
 1. <b>主页</b>：访问推荐的教程、创建新项目或查看最近项目的列表。
 1. <b>学习</b>：访问Sampler的视频教程和学习内容。

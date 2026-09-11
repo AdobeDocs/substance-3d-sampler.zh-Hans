@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/cn/substance-3d-sampler/filters/tools/normal-to-height.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/tools/normal-to-height.html"
 breadcrumb-title: ''
-description: 使用Substance 3D Sampler中的“正常到Height”工具，可以将正常映射转换为Height映射，用于材质创建工作流程。
+description: 使用Substance 3D Sampler中的“正常到Height”工具将法线图转换为材料创建工作流程的高度图。
 helpx_creative_field: ""
 helpx_description: Sampler > Filters > Tools > Normal to Height
 helpx_experience_level: ""
@@ -35,7 +35,7 @@ ht-degree: 2%
 
 根据普通信道生成Height信息。
 
-下图显示正在使用的&#x200B;**正常到Height筛选器**。 在第一图像中，Height地图没有Height信息。 在第二张图像中，应用&#x200B;**正常于Height**&#x200B;**滤镜**&#x200B;后，生成了逼真的Height映射。
+下图显示正在使用的&#x200B;**正常到Height筛选器**。 在第一图像中，高度图没有Height信息。 在第二张图像中，应用&#x200B;**正常于Height****滤镜**&#x200B;后，生成了逼真的Height映射。
 
 ![](../../assets/3d-2d-filters-cropped-0009-normal-to-height-in.jpg)![](../../assets/filters-cropped-0008-normal-height-out.jpg)
 
@@ -45,4 +45,4 @@ ht-degree: 2%
 
 ## 参数
 
-此筛选器没有参数。 要使用它，只需将它添加到图层栈叠的顶部。
+此筛选器没有参数。 要使用它，只需将它添加到图层堆叠顶部。

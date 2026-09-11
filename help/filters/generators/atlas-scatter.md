@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/cn/substance-3d-sampler/filters/generators/atlas-scatter.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/generators/atlas-scatter.html"
 breadcrumb-title: ''
-description: 使用Substance 3D Sampler中的Atlas Scatter生成器，跨材料表面散点纹理图集中的元素。
+description: 使用Substance 3D Sampler中的Atlas Scatter生成器，在材料表面上从纹理地图集中散点元素。
 helpx_creative_field: ""
 helpx_description: Sampler > Filters > Generators > Atlas Scatter
 helpx_experience_level: ""
@@ -33,17 +33,17 @@ ht-degree: 0%
 
 ## 描述
 
-Atlas Scatter筛选器将Atlas素材中元素的实例散点在底层素材上。 Atlas Scatter可用于以自然方式将叶子、岩石或垃圾等物质散落在材料上。
+Atlas Scatter筛选器将Atlas材料中的元素散点在底层材料上。 Atlas Scatter可用于以自然方式在材料上散布树叶、岩石或垃圾等内容。
 
 以下图像显示了正在运行的&#x200B;**Atlas Scatter筛选器**。
 
 ![](../../assets/3d-2d-filters-cropped-0037-atlas-scatter-in.jpg)
 
-在使用&#x200B;**Atlas Scatter滤镜**&#x200B;之前，我们使用一种基础泥浆材料 — 不是很令人兴奋。
+在使用&#x200B;**Atlas Scatter滤镜**&#x200B;之前，我们有一个基本的泥浆材料 — 不是很令人兴奋。
 
 ![](../../assets/3d-2d-filters-cropped-0036-atlas-scatter-out.jpg)
 
-通过在鹅卵石地图集中添加&#x200B;**Atlas Scatter滤镜**，使鹅卵石分散并与下面的泥浆真实地混合后，素材变得更加有趣。
+通过在鹅卵石地图集中添加&#x200B;**Atlas Scatter滤镜**，材料会变得更有意思，因为鹅卵石会散布在地面上，与下面的泥浆真实地融为一体。
 
 </td>
 </tr>
@@ -54,7 +54,7 @@ Atlas Scatter筛选器将Atlas素材中元素的实例散点在底层素材上�
 **基本参数**
 
 * **X数量**： 1-64\
-  X轴上的实例数
+  X轴中的实例数
 * **Y数量**： 1-64\
   Y轴中的实例数
 * **混合模式**：\
@@ -111,22 +111,22 @@ Atlas Scatter筛选器将Atlas素材中元素的实例散点在底层素材上�
 * **旋转随机**： 0-1\
   为每个实例的旋转添加一个随机值
 * **从背景斜率旋转**：\
-  根据底层素材的斜率旋转实例
+  根据底层材料的斜率旋转实例
 
-**Atlas材质调整**
+**Atlas材料调整**
 
 * **颜色调整**：\
   调整贴图集的HSV值
 * **颜色随机**：\
   为&#x200B;**颜色调整**&#x200B;中设置的HSV值添加随机性
-* **背景粗糙度**： 0-1\
-  使用背景的粗糙度，而不是每个实例的粗糙度。
+* **从背景粗糙度**： 0-1\
+  请使用背景粗糙度，而不是每个实例的粗糙度。
 * **粗糙度调整**： -1到1\
-  添加或从每个实例减去粗糙度值。
+  添加或删减每个实例的粗糙度值。
 * **正常随机**： 0-1\
   将每个实例的法线旋转一个随机值
-* **重新计算环境遮蔽**：切换\
-  如果启用，将根据修改后的遮蔽值重新计算“环境Height”值
+* **重新计算Ambient occlusion**：切换\
+  如果启用，将根据修改的Ambient occlusion值重新计算Height值
 
 **Atlas形状检测**
 
@@ -140,18 +140,18 @@ Atlas Scatter筛选器将Atlas素材中元素的实例散点在底层素材上�
 
 使用指南
 
-Atlas Scatter滤镜是一种跨素材散点资源（如树叶、石头或垃圾桶）的有效方法。 要使用Atlas Scatter滤镜，您需要使用贴图集素材以便滤镜进行处理。
+Atlas Scatter滤镜是一种在材料间散点资源（如树叶、石头或垃圾桶）的有效方法。 要使用Atlas Scatter滤镜，需要使用Atlas材料来处理滤镜。
 
 >[!NOTE]
 >
-> 地图集素材是保存单独资产集合（或地图集）的素材。 例如，Sampler默认包括干桂树叶 — 这是贴图集素材，因为它在单个素材中保存了一组叶，其中每片叶彼此分开。 Atlas Scatter节点使用一种算法将atlas素材中的每一叶作为单独的元素进行处理。
+> 地图集材料是保存单独资源收藏集（或地图集）的材料。 例如，Sampler默认情况下包括干桂叶 — 这是地图集材料，因为它在一个材料中保存着一组叶子，其中每片叶子彼此分开。 Atlas Scatter节点使用一种算法将atlas材料中的每个叶作为单独的元素进行处理。
 
 要使用Atlas Scatter过滤器，请执行以下操作：
 
-1. 将Atlas Scatter滤镜添加到图层栈栈
+1. 将Atlas Scatter过滤器添加到您的图层堆叠
 1. 在“Atlas Scatter”图层下方，将显示一个输入槽
-1. 将贴图集素材拖入Atlas Scatter输入槽
+1. 将atlas材料拖入Atlas Scatter输入插槽
 
 您可以通过选择散点图层，在&#x200B;**“属性”面板**&#x200B;中调整Atlas Scatter参数。
 
-可以通过在输入槽中选择素材，在&#x200B;**属性面板**&#x200B;中调整贴图集素材的参数。
+通过选择输入插槽中的材料，可在&#x200B;**“属性”面板**&#x200B;中调整贴图集材料的参数。

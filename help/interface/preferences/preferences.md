@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/cn/substance-3d-sampler/interface/preferences.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/interface/preferences.html"
 breadcrumb-title: ''
 description: 了解如何在Substance 3D Sampler中配置首选项以自定义应用程序设置并优化您的工作流程。
 helpx_creative_field: ""
@@ -58,18 +58,18 @@ ht-degree: 2%
   * **默认图层分辨率**\
     设置应用程序中使用的默认解决策略。
   * **默认材质模型**
-    设置在创建材质或快速操作需要另外选择材质模型时使用的默认模型。
-  * **默认材质纹理拼贴 — U**\
-    设置默认的U纹理拼贴。
-  * **默认材质纹理拼贴 — V**\
-    设置默认的V纹理拼贴。
+    设置创建材料或快速操作需要另外选择材质模型时使用的默认模型。
+  * **默认纹理拼贴- U**\
+    设置默认U拼贴。
+  * **默认纹理拼贴- V**\
+    设置默认V拼贴。
   * **默认Height比例**\
-    设置素材的默认Height比例。
+    设置材料的默认Height比例。
 * **隐私**
   * **自动发送使用情况统计信息**
     切换是否发送匿名使用情况统计信息以帮助改进Sampler。
 * **颜色设置**
-  * **实验性专色拾色器**\
+  * **实验专色选择器**\
     在颜色选择参数出现的地方启用或禁用实验性拾色器。 实验性拾色器可让您直接从PANTONE色板集合中选取颜色。
 * **资源**
   * **缩略图质量**\
@@ -90,8 +90,8 @@ ht-degree: 2%
   * 用于渲染纹理缓存的路径
   * 缩略图缓存的路径。
 * **素材捕捉**\
-  使用此设置更新材质捕捉缓存位置。
-  * 材质捕捉缓存的路径。
+  使用此设置更新材料捕获缓存位置。
+  * 材料捕获缓存的路径。
   * Captis IP地址\
     连接到本地网络上的Captis设备。
   * 将Captis设备用作复制文件的USB存储。

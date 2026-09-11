@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/cn/substance-3d-sampler/interface/panels/metadata-panel.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/interface/panels/metadata-panel.html"
 breadcrumb-title: ''
-description: 了解如何使用Substance 3D Sampler中的“元数据”面板添加和管理素材的元数据信息。
+description: 了解如何使用Substance 3D Sampler中的“元数据”面板为材料添加和管理元数据信息。
 helpx_creative_field: ""
 helpx_description: Sampler > Interface > Panels > Metadata panel
 helpx_experience_level: ""
@@ -26,17 +26,17 @@ ht-degree: 0%
 
 <b>名称</b>：资源的名称。
 
-<b>描述</b>：资源描述或嵌入在Substance素材中的描述
+<b>描述</b>：嵌入在材料中的资源的描述或描述
 
-<b>类别</b>：资源类别或嵌入在Substance素材中的类别
+<b>类别</b>：资源类别或嵌入在材料中的类别
 
-<b>作者</b>：资源的作者或嵌入在Substance素材中的作者。 默认情况下，作者的姓名就是您的操作系统帐户的名称。
+<b>作者</b>：资源的作者或嵌入在材料中的作者。 默认情况下，作者的姓名就是您的操作系统帐户的名称。
 
 <b>创建日期</b>：Sampler中的资源创建日期或导入到Sampler的日期。 （无法编辑）
 
 <b>更新日期</b>：上次更新资源的日期。 （无法编辑）
 
-<b>标签</b>：资源的标签或嵌入在Substance素材中的标签。
+<b>标签</b>：资源的标签或嵌入在材料中的标签。
 
 <b>物理尺寸</b>：资源的X、Y和Z大小。
 
@@ -44,7 +44,7 @@ ht-degree: 0%
 
 ## 自定义元数据
 
-所有自定义元数据都将包含在素材文件(SBSAR)中，以确保跨应用程序共享数字素材的工作流程更加高效。
+所有自定义元数据都将包含在材料文件(SBSAR)中，以确保跨应用程序共享数字材料的工作流程更加高效。
 
 ![](../../assets/Metadata-panel-Custom.png){width="350px"}
 

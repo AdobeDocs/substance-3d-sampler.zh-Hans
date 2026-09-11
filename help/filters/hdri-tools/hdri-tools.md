@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/cn/substance-3d-sampler/filters/hdri-tools.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/hdri-tools.html"
 breadcrumb-title: ''
 description: 了解如何使用Substance 3D Sampler中的HDRI 工具来编辑、增强和创建高动态范围环境图像。
 helpx_creative_field: ""
@@ -24,9 +24,9 @@ ht-degree: 4%
 >
 > 未来更改
 > 
-> 随着Sampler V5.2的发布，对环境光和网格的支持将被移除。 移除环境光还包括移除HDRI 工具和滤镜。
+> Sampler V5.2版本将不再支持环境光和网格。 删除环境光还包括删除HDRI 工具和滤镜。
 
-“HDRI 工具”部分中的滤镜是专门用于处理环境光线的工具。 HDRI表示高动态范围图像，但通常用于表示用于创建环境光的全景图像。 由于在传统软件中修改全景图像可能很困难，因为球面3D信息必须映射到2D图像文件 — 在Sampler中的HDRI 工具设计时考虑到了这一点，因此在HDRI中修补和添加光照会更加容易。
+“HDRI 工具”部分中的过滤器是专门用于处理环境光的工具。 HDRI表示高动态范围图像，但通常用于引用用于创建环境光的全景图像。 由于在传统软件中修改全景图像可能很困难，因为球面3D信息必须映射到2D图像文件 — 在Sampler中的HDRI 工具设计时考虑到了这一点，因此在HDRI中修补和添加光照会更加容易。
 
 以下过滤器为HDRI 工具：
 

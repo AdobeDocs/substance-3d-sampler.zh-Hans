@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/cn/substance-3d-sampler/3d-capture/equipment.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/3d-capture/equipment.html"
 breadcrumb-title: ''
 description: 了解推荐用于Substance 3D Sampler的3D 捕捉设备，以实现高质量的材料和对象数字化。
 helpx_creative_field: ""
@@ -48,7 +48,7 @@ ht-degree: 0%
 
 ## 转盘
 
-对于转台而言，简单的手动转台在许多情况下都适用，但可以自动触发相机的自动转台可以更简单、更快速地完成工作。 手动转盘非常便宜，而且在预算范围内很实用。 有了电动转台，就可以重复进行精确的转动，而且如果转盘可以触发相机，使用起来会比手动转盘快很多倍。
+对于转台而言，简单的手动转台在许多情况下都适用，但可以自动触发相机的自动转台可以更简单、更快速地完成工作。 手动转盘非常便宜，而且在预算范围内很实用。 有了电动转盘，就可以重复进行精确的转动，如果转盘可以触发相机，使用起来会比手动转盘快很多倍。
 
 ## 亮度和背景
 
@@ -58,4 +58,4 @@ ht-degree: 0%
 
 设置好所有内容后，想法很简单：拍摄大量照片，<b>全360度循环。 在至少5个不同的循环</b>中，每次旋转16次拍摄是一个不错的数字。 一个<b>从侧面</b>开始，两个<b>从不同的Height</b>开始，分别用于底部和顶部。
 
-现在进一步了解您将需要用于3D 捕捉过程[&#128279;](camera-settings-exposure-substance-3d-sampler.md)的C相机设置。
+现在进一步了解您将需要用于3D 捕捉过程](camera-settings-exposure-substance-3d-sampler.md)的C[相机设置。

@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/cn/substance-3d-sampler/features-and-workflows/adobe-standard-material.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/features-and-workflows/adobe-standard-material.html"
 breadcrumb-title: ''
-description: 了解如何在Substance 3D Sampler中使用Adobe标准材质创建与Adobe材质标准兼容的材质。
+description: 了解如何使用Substance 3D Sampler中的Adobe Standard Material创建与Adobe材料标准兼容的材料。
 helpx_creative_field: ""
 helpx_description: Sampler > Features and workflows > Adobe Standard Material
 helpx_experience_level: ""
@@ -22,14 +22,14 @@ ht-degree: 1%
 
 >[!NOTE]
 >
-> Substance 3D Sampler现在默认为[OpenPBR](openpbr.md)材质模型，而不是Adobe标准素材。
+> Substance 3D Sampler现在默认为[OpenPBR](openpbr.md)材质模型，而不是Adobe Standard Material。
 
 
-## 标准素材属性
+## 标准材料属性
 
 ## 基础曲面属性
 
-**基色**
+**Base color**
 
 表面的颜色。
 
@@ -39,9 +39,9 @@ ht-degree: 1%
 
 ![](../assets/surface-roughness.jpg)
 
-**金属质感**
+**金属**
 
-表面的金属光泽度。
+表面具有的金属光泽度。
 
 ![](../assets/surface-metallic.jpg)
 
@@ -51,19 +51,19 @@ ht-degree: 1%
 
 ![](../assets/surface-opacity.jpg)
 
-**环境遮蔽**
+**Ambient occlusion**
 
 凹腔中的阴影和折痕，防止光线到达表面。
 
 **Specular level**
 
-曲面上光线反射的强度。
+曲面上的光反射的强度。
 
 ![](../assets/surface-specularlevel.jpg)
 
 **Specular edge color**
 
-光反射的颜色。 影响金属材料的倾斜角度。
+光反射的颜色。 影响材料的倾斜角度。
 
 ![](../assets/surface-specularedgecolor.jpg)
 
@@ -77,7 +77,7 @@ ht-degree: 1%
 
 **将普通字体和Height字体合并**
 
-在Height纹理顶部应用常规纹理。
+在纹理顶部应用常规纹理。
 
 **Height**
 
@@ -91,9 +91,9 @@ ht-degree: 1%
 
 表示零位移的Height纹理的值。
 
-**各向异性级别**
+**Anisotropy level**
 
-反射沿曲面一个方向拉伸的数量。
+沿曲面一个方向拉伸的反射量。
 
 ![](../assets/surface-anisotropy.jpg)
 
@@ -125,15 +125,15 @@ ht-degree: 1%
 
 ![](../assets/surface-sheencolor.jpg)
 
-**光泽粗糙度**
+**粗糙度**
 
-柔和的光泽效果。
+光泽效果的柔和度。
 
 ![](../assets/surface-sheenroughness.jpg)
 
 ## 内部属性
 
-**半透明**
+**Translucency**
 
 能透过表面的光量。
 
@@ -215,7 +215,7 @@ ht-degree: 1%
 
 ![](../assets/coat-coatcolor.jpg)
 
-**皮毛粗糙度**
+**Coat roughness**
 
 皮毛表面光滑或哑光程度。
 
@@ -239,6 +239,6 @@ ht-degree: 1%
 
 ![](../assets/coat-coatnormal.jpg)
 
-**皮毛正常缩放**
+**Coat normal缩放**
 
-皮毛强度正常效果。
+coat normal效果的强度。

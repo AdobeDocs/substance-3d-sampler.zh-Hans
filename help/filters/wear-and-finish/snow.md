@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/cn/substance-3d-sampler/filters/wear-and-finish/snow.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/wear-and-finish/snow.html"
 breadcrumb-title: ''
-description: 使用Substance 3D Sampler中的Snow滤镜为素材添加逼真的积雪和冬季天气效果。
+description: 使用Substance 3D Sampler中的Snow滤镜为您的材料添加逼真的积雪和冬季天气效果。
 helpx_creative_field: ""
 helpx_description: Sampler > Filters > Wear and Finish > Snow
 helpx_experience_level: ""
@@ -33,7 +33,7 @@ ht-degree: 1%
 
 ## 描述
 
-使用&#x200B;**Snow滤镜**&#x200B;可为您的素材添加从灰尘到几英尺雪的任何内容。
+使用&#x200B;**Snow滤镜**&#x200B;为您的材料添加从灰尘到几英尺雪的任何内容。
 
 ![](../../assets/snow-compare.png)
 
@@ -60,7 +60,7 @@ ht-degree: 1%
 * **使用自定义蒙版**：切换\
   启用或禁用自定义蒙版的使用。 如果启用，将显示以下参数：
   * **自定义蒙版**：图像/画笔\
-    选择要用作蒙版的图像，或使用画笔直接在2D视图中绘制自定义蒙版。
+    选择要用作蒙版的图像，或使用画笔直接在2D 视图中绘画自定义蒙版。
   * **蒙版模糊**： 0-1\
     模糊蒙版。
   * **蒙版强度**： 0-1\

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/cn/substance-3d-sampler/filters/hdri-tools/panorama-patch.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/hdri-tools/panorama-patch.html"
 breadcrumb-title: ''
 description: 使用Substance 3D Sampler中的“全景修补”工具在全景HDRI环境图像中修补和修复区域。
 helpx_creative_field: ""
@@ -33,7 +33,7 @@ ht-degree: 1%
 
 ## 描述
 
-修补环境光线中的问题区域。 全景贴片保持变换和倾斜，使贴片与背景表面自然匹配。
+修补环境光中的问题区域。 全景贴片保持变换和倾斜，使贴片与背景表面自然匹配。
 
 下图显示了<b>正在使用的全景图修补</b> — 在这种情况下，用开放的天空替换大云的中心。
 
@@ -54,4 +54,4 @@ ht-degree: 1%
 
 ## 使用指南
 
-将&#x200B;**全景修补滤镜**&#x200B;添加到图层栈栈顶部，然后使用&#x200B;**2D视图**&#x200B;中的手柄调整源和修补位置。
+在图层堆叠顶部添加&#x200B;**全景修补滤镜**，然后使用&#x200B;**2D 视图**&#x200B;中的手柄调整源和修补位置。

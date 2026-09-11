@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/cn/substance-3d-sampler/filters/tools/multiangle-to-material.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/tools/multiangle-to-material.html"
 breadcrumb-title: ''
-description: 使用Substance 3D Sampler中的“多角度转材质”工具，从曲面的多角度照片创建材质。
+description: 使用Substance 3D Sampler中的“多角度转材质”工具，从表面的多角度照片创建材料。
 helpx_creative_field: ""
 helpx_description: Sampler > Filters > Tools > Multiangle To Material
 helpx_experience_level: ""
@@ -22,15 +22,15 @@ ht-degree: 0%
 
 ![](../../assets/sat-multi-angle.png)
 
-**多角度转材质**&#x200B;模板创建了在特定光照条件下拍摄的2到8张输入图像的材质。 这种光条件可通过材料扫描仪来实现。
+**多角度转材质**&#x200B;模板创建了在特定光照条件下拍摄的2到8个输入图像的材料。 这样的光条件可以通过材料扫描仪来实现。
 
 >[!NOTE]
 >
-> 您可以在文章[&#128279;](https://www.adobe.com/products/substance3d/magazine/your-smartphone-is-a-material-scanner-vol-ii.html)中查找有关如何创建自己的素材扫描仪的更多信息。
+> 您可以在文章](https://www.adobe.com/products/substance3d/magazine/your-smartphone-is-a-material-scanner-vol-ii.html)中查找有关如何创建自己的素材扫描仪[的更多信息。
 
 ## 示例
 
-以下是从8个输入图像创建的素材的示例：
+以下是从8个输入图像创建的材料的示例：
 
 * 前8幅图像为在8个光角度下拍摄的扫描图像。
 * 底部图像是模板的输出（基色、正常、Height、金属色和粗糙度）。

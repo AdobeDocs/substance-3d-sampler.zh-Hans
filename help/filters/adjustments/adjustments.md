@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/cn/substance-3d-sampler/filters/adjustments.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/adjustments.html"
 breadcrumb-title: ''
-description: 了解如何在Substance 3D Sampler中使用调整滤镜来修改颜色、亮度、对比度和其他材质属性。
+description: 了解如何在Substance 3D Sampler中使用调整滤镜来修改颜色、亮度、对比度和其他材料属性。
 helpx_creative_field: ""
 helpx_description: Sampler > Filters > Adjustments
 helpx_experience_level: ""
@@ -20,7 +20,7 @@ ht-degree: 6%
 
 # 调整
 
-调整滤镜允许您调整素材的值。 大多数调整滤镜都允许您定位特定的通道，从而完全控制素材的外观。 在调整特定通道时，最好使用&#x200B;**2D视图**&#x200B;查看您正在修改的通道，而不是完全依赖&#x200B;**3D视图**。 **2D视图**&#x200B;可以更轻松地发现通道中的错误或问题。
+调整滤镜允许您调整材料的值。 大多数调整滤镜都允许您定位特定的声道，以便完全控制材料的外观。 在调整特定通道时，最好使用&#x200B;**2D 视图**&#x200B;查看您正在修改的通道，而不是完全依赖&#x200B;**3D视图**。 **2D 视图**&#x200B;可以更轻松地发现声道中的错误或问题。
 
 以下是调整滤镜的列表：
 

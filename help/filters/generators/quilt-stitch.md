@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/cn/substance-3d-sampler/filters/generators/quilt-stitch.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/generators/quilt-stitch.html"
 breadcrumb-title: ''
-description: 使用Substance 3D Sampler中的“面组缝合”生成器为素材创建面组织物图案和缝合纹理。
+description: 使用Substance 3D Sampler中的“面组拼接”生成器为材料创建面组织物图案和拼接纹理。
 helpx_creative_field: ""
 helpx_description: Sampler > Filters > Generators > Quilt Stitch
 helpx_experience_level: ""
@@ -33,9 +33,9 @@ ht-degree: 0%
 
 ## 描述
 
-使用此滤镜在材质中模拟缝合面组图案。
+使用此滤镜在材料中模拟缝合面组图案。
 
-*应用&#x200B;**面组拼接滤镜**&#x200B;之前和之后。*
+*应用&#x200B;**面组拼接滤镜**之前和之后。*
 
 <table>
 <tr style="border: 0;">
@@ -70,7 +70,7 @@ ht-degree: 0%
   旋转图案
 * **Topstitch**：切换\
   启用以添加顶纹并查看相关参数部分
-* **接缝**：切换开关\
+* **接缝**：切换\
   允许添加接缝并查看相关参数部分
 * **面组**：切换\
   启用以添加面组并查看相关参数部分
@@ -92,8 +92,8 @@ ht-degree: 0%
 * **穿刺强度**： 0-1\
   调整由上缝造成的面组缩进
 * **Topstitch粗糙度**： 0-1\
-  调整螺纹的粗糙度
-* **Topstitch金属质感**： 0-1\
+  调整串接粗糙度
+* **Topstitch金属**： 0-1\
   调整串接的金属值
 
 **接缝**
@@ -101,9 +101,9 @@ ht-degree: 0%
 * **接缝** **选择**：\
   选择要使用的接缝样式
 * **接缝强度**： 0-1\
-  修改焊缝的法线和Height强度
+  修改接缝的法线和Height强度
 * **拉伸强度**： 0-1\
-  调整织物拉伸对接缝的影响程度。 这种效果非常细微。
+  调整结构拉伸对接缝的影响程度。 这种效果非常细微。
 
 **面组**
 
@@ -115,7 +115,7 @@ ht-degree: 0%
 **边缘绘画**
 
 * **边缘选区**：\
-  选择疼痛是否覆盖底层素材的正常和Height细节
+  选择疼痛是否覆盖基础材料的正常和Height细节
 * **边缘颜色**：颜色选择\
   选择绘画颜色
 * **边缘粗糙度**： 0-1
@@ -124,6 +124,6 @@ ht-degree: 0%
 **高级**
 
 * **Height**： 0-1\
-  从底层素材调整Height图的强度
+  从基础材料调整高度图的强度
 * **正常强度**： 0-1\
-  由于&#x200B;**面组拼接**&#x200B;滤镜，调整法线图的强度变化。 此修订本不会影响相关资料之正常运作。
+  调整由于&#x200B;**面组拼接**&#x200B;滤镜而导致法线图更改的强度。 这不会影响基础材料的正常运转。

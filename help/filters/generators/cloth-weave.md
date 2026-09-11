@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/cn/substance-3d-sampler/filters/generators/cloth-weave.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/generators/cloth-weave.html"
 breadcrumb-title: ''
-description: 使用Substance 3D Sampler中的布料编织生成器创建用于创建素材的织物编织图案和纺织品纹理。
+description: 使用Substance 3D Sampler中的布料编织生成器创建用于制作材料的织物编织图案和织物纹理。
 helpx_creative_field: ""
 helpx_description: Sampler > Filters > Generators > Cloth Weave
 helpx_experience_level: ""
@@ -64,7 +64,7 @@ ht-degree: 0%
 * **宽度：** 0-1\
   设置绕排螺纹的宽度。
 * **偏移：** 0-1\
-  在X轴和Y轴上偏移污渍映射。
+  在X和Y轴中偏移污渍映射。
 * **线程：**&#x200B;设置线程类型。
 * **光纤数量：** 0-8\
   设置螺纹包含的纤维数。
@@ -77,7 +77,7 @@ ht-degree: 0%
 * **宽度：** 0-1\
   设置绕排螺纹的宽度。
 * **偏移：** 0-1\
-  在X轴和Y轴上偏移污渍映射。
+  在X和Y轴中偏移污渍映射。
 * **线程：**&#x200B;设置线程类型。
 * **光纤数量：** 0-8\
   设置螺纹包含的纤维数。
@@ -85,7 +85,7 @@ ht-degree: 0%
 
 **高级**
 
-* **混合模式**&#x200B;**：**&#x200B;为基色通道选择混合模式。 更改混合模式会显着改变布料编织的外观。
+* **混合模式****：**为基色通道选择混合模式。 更改混合模式会显着改变布料编织的外观。
 * **瑕疵强度：** 0-1\
   设置螺纹瑕疵的强度。
 * **正常强度：** 0-2\

@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/cn/substance-3d-sampler/interface/panels/exposed-parameters-panel.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/interface/panels/exposed-parameters-panel.html"
 breadcrumb-title: ''
-description: 了解如何使用Substance 3D Sampler中的公开参数面板来显示用于外部编辑的滤镜参数。
+description: 了解如何使用Substance 3D Sampler中的公开参数面板公开过滤器参数以进行外部编辑。
 helpx_creative_field: ""
 helpx_description: Sampler > Interface > Panels > Exposed Parameters Panel
 helpx_experience_level: ""
@@ -22,13 +22,13 @@ ht-degree: 0%
 
 ![](../../assets/ezgif-com-gif-maker-7.gif)
 
-**公开参数面板**&#x200B;包含从&#x200B;**属性面板**&#x200B;中公开的参数。
+**公开参数面板**&#x200B;包含从&#x200B;**属性面板**&#x200B;公开的参数。
 
 彩色点有助于直观地看到参数连接到哪个图层。 空点表示参数来自混合图层。
 
 ![](../../assets/ezgif-com-gif-maker-1.gif)
 
-有几种方式可与公开的参数交互：
+有几种方式可与公开参数交互：
 
 | 操作 | 操作方法 |
 | --- | --- |

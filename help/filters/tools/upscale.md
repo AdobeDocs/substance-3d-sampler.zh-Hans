@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/cn/substance-3d-sampler/filters/tools/upscale.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/tools/upscale.html"
 breadcrumb-title: ''
-description: 使用Substance 3D Sampler中的“放大”工具，通过AI支持的放大技术提高纹理分辨率。
+description: 使用Substance 3D Sampler中的“放大”工具，利用AI支持的放大技术提高纹理分辨率。
 helpx_creative_field: ""
 helpx_description: Substance 3D Sampler
 helpx_experience_level: ""
@@ -33,7 +33,7 @@ ht-degree: 2%
 
 ## 描述
 
-<b>放大</b>滤镜使用AI从它下面的图层上放大PBR通道（基色、粗糙度、正常、金属、Height）的样本。
+<b>放大</b>滤镜使用AI从它下面的图层对PBR通道（基色、粗糙度、正常、金属、Height）进行放大取样。
 
 <table>
 <tr style="border: 0;">
@@ -79,8 +79,8 @@ ht-degree: 2%
 
 ![](../../assets/SAPR_Upscale_screen_001.png)
 
-在上图中，[图像到材质（AI驱动）](image-to-material.md)处理了低分辨率图像。
+在上图中，[图像到材料（AI支持）](image-to-material.md)处理了低分辨率图像。
 
 ![](../../assets/SAPR_Upscale_Screen_003.png)
 
-已添加<b>放大</b>筛选器以对结果进行放大取样。 它对细节进行卤化处理，以达到较高的分辨率来保持材料的质量。 您可以在属性中选择以2为单位或以4为单位增加像素取样。
+已添加<b>放大</b>筛选器以对结果进行放大取样。 它对细节进行卤化处理，以达到较高的分辨率，保持材料的品质。 您可以在属性中选择以2为单位或以4为单位增加像素取样。

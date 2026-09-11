@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/cn/substance-3d-sampler/technical-support/technical-issues/filter-issues.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/technical-support/technical-issues/filter-issues.html"
 breadcrumb-title: ''
 description: 访问有关Substance 3D Sampler滤镜问题的故障排除指南，以解决缺少滤镜以及与滤镜相关的问题。
 helpx_creative_field: ""
@@ -20,5 +20,5 @@ ht-degree: 0%
 
 # 筛选问题
 
-* [图像到材质和欢乐缺失](image-to-material-and-delighter-are-missing.md)
-* [图像转换为素材紫色结果](image-to-material-visual-artefacts.md)
+* [缺少“图像到材料”和“愉悦”](image-to-material-and-delighter-are-missing.md)
+* [用于材料紫色结果的图像](image-to-material-visual-artefacts.md)

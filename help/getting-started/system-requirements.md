@@ -1,5 +1,5 @@
 ---
-helpx_url: 'https://helpx.adobe.com/cn/substance-3d-sampler/getting-started/system-requirements.html'
+helpx_url: 'https://helpx.adobe.com/substance-3d-sampler/getting-started/system-requirements.html'
 breadcrumb-title: ''
 description: 查看Substance 3D Sampler的系统要求，确保您的硬件和软件符合兼容性标准。
 helpx_creative_field: ''
@@ -88,14 +88,14 @@ ht-degree: 1%
 
 * x86-64 (Intel、AMD) CPU不支持集成GPU。
 * 不支持将Sampler与拦截Sampler对图形驱动程序的调用的第三方软件结合使用。 此类软件包括：
-  * 后期处理喷射器，例如应用颜色分级的整形器、相机效果等……
+  * 后期处理喷射器，例如应用颜色分级、相机效果的整形器……
   * 屏幕叠加，例如自定义十字线、GPU性能度量、视频流的外观……
 
 ## 最低GPU驱动程序版本
 
 下表列出了运行无问题的应用程序所需的最低GPU驱动程序版本。 此列表可能会随着新版本的发布而发生更改。
 
-要下载新驱动程序，请参阅： [GPU具有过时的驱动程序](https://experienceleague.adobe.com/zh-hans/docs/substance-3d-painter/using/technical-support/technical-issues/gpu-issues/gpu-has-outdated-drivers)。
+要下载新驱动程序，请参阅： [GPU具有过时的驱动程序](https://experienceleague.adobe.com/en/docs/substance-3d-painter/using/technical-support/technical-issues/gpu-issues/gpu-has-outdated-drivers)。
 
 | 操作系统 | NVIDIA | AMD | Intel |
 | --- | --- | --- | --- |

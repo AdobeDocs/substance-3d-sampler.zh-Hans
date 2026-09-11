@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/cn/substance-3d-sampler/scripting-and-development/create-a-script-with-python.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/scripting-and-development/create-a-script-with-python.html"
 breadcrumb-title: ''
 description: 了解如何为Substance 3D Sampler创建Python脚本以自动化工作流程和扩展应用程序功能。
 helpx_creative_field: ""
@@ -28,7 +28,7 @@ ht-degree: 0%
 
 ## 脚本示例
 
-下面的脚本通过为素材中的每个图层选择新的随机种子，自动创建素材的变体。 这对于确保您的素材可用于一般情况而不是依赖特定的随机种子非常有用。
+下面的脚本通过为材料中的每个图层选择新的随机种子来自动创建材料的变体。 要确保您的材料可用于一般情况而不是依赖特定的随机植入，此功能非常有用。
 
 ### random\_seed\_variations.py
 

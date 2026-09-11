@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/cn/substance-3d-sampler/technical-support/technical-issues.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/technical-support/technical-issues.html"
 breadcrumb-title: ''
 description: 访问Substance 3D Sampler中常见技术问题的故障排除指南，以解决问题并优化性能。
 helpx_creative_field: ""
@@ -28,7 +28,7 @@ ht-degree: 0%
 
 ## 筛选问题
 
-* [图像到材质和欢乐缺失](filter-issues/image-to-material-and-delighter-are-missing.md)
+* [缺少“图像到材料”和“愉悦”](filter-issues/image-to-material-and-delighter-are-missing.md)
 
 ## 界面问题
 
@@ -38,12 +38,12 @@ ht-degree: 0%
 ## 性能问题
 
 * [第一次打开拾色器时花费较长时间](performance-issues/color-picker-takes-long-time-to-open-the-first-time.md)
-* [与图层栈栈或其他元素交互时，界面会滞后](performance-issues/interface-lags-when-interacting-with-the-layer-stack-or-other-elements.md)
+* [与图层堆叠或其他元素交互时，界面会滞后](performance-issues/interface-lags-when-interacting-with-the-layer-stack-or-other-elements.md)
 
 ## 稳定性问题
 
-* [导出素材时崩溃](stability-issues/crash-when-exporting-a-material.md)
-* [将图像用于素材或欢乐时崩溃](stability-issues/crash-when-using-the-image-to-material-or-delighter.md)
+* [导出材料时崩溃](stability-issues/crash-when-exporting-a-material.md)
+* [使用图像材料或取乐时崩溃](stability-issues/crash-when-using-the-image-to-material-or-delighter.md)
 
 ## 启动问题
 

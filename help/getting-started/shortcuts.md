@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/cn/substance-3d-sampler/getting-started/shortcuts.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/getting-started/shortcuts.html"
 breadcrumb-title: ''
 description: 访问Substance 3D Sampler的键盘快捷键以加快您的工作流程并提高材料创建效率。
 helpx_creative_field: ""
@@ -31,21 +31,21 @@ ht-degree: 15%
 | 保存 | Ctrl + S | ⌘ + S |
 | 另存为 | Ctrl + Shift + S | ⌘ + Shift + S |
 | 导出 | Ctrl + E | ⌘ + E |
-| 仅限3D视图 | 3 | 3 |
-| 仅限2D视图 | 2 | 2 |
+| 仅限3D 视图 | 3 | 3 |
+| 仅限2D 视图 | 2 | 2 |
 
-## 3D视图快捷键
+## 3D 视图快捷键
 
 | *操作* | *Windows* | *MacOS* |
 | --- | --- | --- |
 | 相机旋转 | Alt +鼠标左键或鼠标左键 | Option +鼠标左键或鼠标左键 |
 | 相机平移 | Alt + Mouse Middle或Mouse Middle | Option +鼠标中键或鼠标中键 |
-| 相机变焦 | Alt +鼠标右键或鼠标滚轮 | Option +鼠标右键或鼠标滚轮 |
+| 相机缩放 | Alt +鼠标右键或鼠标滚轮 | Option +鼠标右键或鼠标滚轮 |
 | 聚焦 | F | F |
 | 环境旋转 | Shift +鼠标右键 | Shift +鼠标右键 |
 | 环境可见性 | 1 | 1 |
 
-## 2D视图快捷键
+## 2D 视图快捷键
 
 <table data-preserve-html="true" style="width: 50.061%;">
 <colgroup><col style="width: 39.9838%;"/><col style="width: 30.5565%;"/><col style="width: 29.5004%;"/></colgroup><tbody><tr><th><i>操作</i></th>
@@ -72,7 +72,7 @@ ht-degree: 15%
 </tr><tr><td>聚焦</td>
 <td>F</td>
 <td>F</td>
-</tr><tr><td>纹理拼贴</td>
+</tr><tr><td>拼贴</td>
 <td>T</td>
 <td>T</td>
 </tr><tr><td>在渠道中循环</td>
@@ -147,7 +147,7 @@ ht-degree: 15%
 <span class="EOP SCXW209008232 BCX0"></span></td>
 <td><p>Option +鼠标中键</p>
 </td>
-</tr><tr><td><p>相机变焦</p>
+</tr><tr><td><p>相机缩放</p>
 </td>
 <td><p>Alt +鼠标右键</p>
 <p> </p>

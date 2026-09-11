@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/cn/substance-3d-sampler/interface/preferences/normal-format.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/interface/preferences/normal-format.html"
 breadcrumb-title: ''
 description: 了解如何在Substance 3D Sampler中配置法线贴图格式偏好设置，以在DirectX和OpenGL格式之间切换。
 helpx_creative_field: ""
@@ -20,7 +20,7 @@ ht-degree: 5%
 
 # 法线贴图格式
 
-使用<b>格式</b>DirectX处理普通映射，请通过更改普通格式首选项来保持<b> OpenGL</b>工作流程，以便导入和导出OpenGL格式。
+法线图是使用<b>格式</b>处理，请保留<b> OpenGL</b>工作流程，以便通过更改常规DirectX首选项来导入和导出OpenGL格式。
 
 *默认值：DirectX*
 
@@ -31,13 +31,13 @@ ht-degree: 5%
 
 ## 图像导入图层
 
-导入法线纹理时，法线格式将设置为在“首选项”中选择的格式。
+导入普通格式时，普通纹理被设置为在“首选项”中选择的格式。
 
 ### 导出
 
 #### SBSAR和SBS
 
-法线格式为公开参数。 此参数可由主机应用程序调整以生成其需要的格式的normal。
+常规格式为公开参数。 此参数可由主机应用程序调整以生成其需要的格式的normal。
 
 #### 图像格式
 

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/cn/substance-3d-sampler/release-notes/old-versions/version-0-7-0.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/release-notes/old-versions/version-0-7-0.html"
 breadcrumb-title: ''
 description: 查看Substance 3D Sampler版本0.7.0的发行说明，了解更新、改进和错误修复。
 helpx_creative_field: ""
@@ -26,8 +26,8 @@ ht-degree: 0%
 
 * [滤镜]通过按空格键可快速访问滤镜
 * [Filters]新的专用面板用于管理、浏览和导入过滤器
-* [元数据]右键单击材质以查看其元数据
-* [元数据]右键单击某个材质以查看其在磁盘上的位置
+* [元数据]右键单击材料可查看其元数据
+* [元数据]右键单击材料可查看其在磁盘上的位置
 * [滑块]按住Ctrl键并将滑块悬停在移动位置时为其制作动画
 * [滑块]按P停止并重新开始滑块动画
 * [导出] SBSAR导出遵循Substance Source准则
@@ -36,7 +36,7 @@ ht-degree: 0%
 * [UX] “文件夹”对话框记住最后一个选定的文件夹路径
 * [UI]更新资源面板UI
 * [UI]更新搜索栏UI
-* [UI]“创建新材质”图标已更新
+* [UI]“创建新材料”图标已更新
 * [帮助] URL已更新为[substance3d.com](http://substance3d.com)域
 * [网格]布料网格现已可用
 * [内容]新的腐蚀过滤器
@@ -49,15 +49,15 @@ ht-degree: 0%
 * [内容]全新金属光洁度滤镜
 * [内容]新建Snow过滤器
 * [Content]新的随机化筛选器
-* [内容]您现在可以直接在基础材质滤镜中导入纹理
+* [Content]您现在可以直接在纹理过滤器中导入基础材质
 
 已修复：
 
-* 修复存储图层栈叠时出现的崩溃问题
+* 在保存图层堆叠时修复崩溃
 * 可以在环境旋转滑块中添加一个大于1的值
-* 在将混合图层从混合图层来回转换为素材图层时，不会丢失混合参数
-* 多次生成同一图层栈叠的变体时修复重复项
-* 重新打开材质时，Alchemist会记住滑块已修改的范围（最小和最大）
+* 在将混合图层从混合图层来回变换到材料图层时，不会丢失混合参数
+* 在多次生成同一图层堆叠的变体时修复重复项
+* 重新打开材料时，Alchemist会记住已修改的滑块范围（最小和最大）
 
 已知问题：
 

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/cn/substance-3d-sampler/filters/hdri-tools/color-temperature-adjustment.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/hdri-tools/color-temperature-adjustment.html"
 breadcrumb-title: ''
 description: 使用Substance 3D Sampler中的“Color Temperature Adjustment”工具调整HDRI环境图像中的色温。
 helpx_creative_field: ""
@@ -70,7 +70,7 @@ ht-degree: 1%
 * **自定义蒙版**：切换\
   启用或禁用自定义蒙版的使用。 如果启用，将显示以下参数：
   * **蒙版**：图像/画笔\
-    选择要用作蒙版的图像，或使用画笔直接在2D视图中绘制自定义蒙版
+    选择要用作蒙版的图像，或使用画笔直接在2D 视图中绘画自定义蒙版
   * **自定义蒙版 — 模糊**： 0-1\
     模糊蒙版
   * **自定义蒙版 — 反转**：切换\

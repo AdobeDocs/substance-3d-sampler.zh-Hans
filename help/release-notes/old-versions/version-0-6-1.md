@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/cn/substance-3d-sampler/release-notes/old-versions/version-0-6-1.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/release-notes/old-versions/version-0-6-1.html"
 breadcrumb-title: ''
 description: 查看Substance 3D Sampler版本0.6.1的发行说明，了解更新、改进和错误修复。
 helpx_creative_field: ""
@@ -24,9 +24,9 @@ ht-degree: 0%
 
 已添加：
 
-* [Engine]Substance 引擎更新，以便与最新的Substance Designer版本兼容
+* [引擎]Substance 引擎更新，以便与最新的Substance Designer版本兼容
 * [License]更新首次安装的许可证文件夹
-* [图层]可随时重新加载图层栈栈以更新自定义滤镜
+* [图层]可随时重新加载图层堆叠以更新自定义滤镜
 
 已修复：
 

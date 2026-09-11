@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/cn/substance-3d-sampler/scripting-and-development/create-a-plugin-with-python-and-qml.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/scripting-and-development/create-a-plugin-with-python-and-qml.html"
 breadcrumb-title: ''
 description: 了解如何使用Python和QML为Substance 3D Sampler创建插件，以构建自定义用户界面和扩展功能。
 helpx_creative_field: ""
@@ -28,7 +28,7 @@ Sampler增效工具至少需要一个Python和QML文件才能导入，但也可�
 
 * **autosave.py**&#x200B;包含插件的逻辑并确定其工作方式。
 * **autosave.qml**&#x200B;定义增效工具在Sampler中的外观。
-* **autosave.svg**&#x200B;是用作插件图标的矢量图形。
+* **autosave.svg**&#x200B;是用作增效工具图标的矢量图形。
 
 在单个文件夹中拥有增效工具所需的文件后，可通过“编辑”>“首选项”>“增效工具和脚本”将该增效工具添加到Sampler。 要了解有关管理插件的更多信息，请转到[此处](manage-installed-plugins-and-scripts.md)。
 

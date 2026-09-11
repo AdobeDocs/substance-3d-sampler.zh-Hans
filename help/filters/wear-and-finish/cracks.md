@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/cn/substance-3d-sampler/filters/wear-and-finish/cracks.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/wear-and-finish/cracks.html"
 breadcrumb-title: ''
-description: 使用Substance 3D Sampler中的裂缝滤镜为材质添加逼真的裂纹图案和表面损坏效果。
+description: 使用Substance 3D Sampler中的裂缝滤镜为材料添加逼真的裂纹图案和表面损坏效果。
 helpx_creative_field: ""
 helpx_description: Sampler > Filters > Wear and Finish > Cracks
 helpx_experience_level: ""
@@ -33,9 +33,9 @@ ht-degree: 1%
 
 ## 描述
 
-使用&#x200B;**裂缝过滤器**&#x200B;通过为素材添加裂缝和缝隙网络来老化并损坏素材。
+使用&#x200B;**裂缝筛选器**&#x200B;通过向材料添加裂缝和缝隙网络来老化并损坏文档。
 
-**裂缝滤镜**&#x200B;应用于干净的大理石材质。
+**裂缝筛选器**&#x200B;应用于干净的大理石材料。
 
 <table>
 <tr style="border: 0;">
@@ -72,7 +72,7 @@ ht-degree: 1%
 * **使用自定义蒙版**：切换\
   启用或禁用自定义蒙版的使用。 如果启用，将显示以下参数：
   * **蒙版**：图像/画笔\
-    选择要用作蒙版的图像，或使用画笔直接在2D视图中绘制自定义蒙版。
+    选择要用作蒙版的图像，或使用画笔直接在2D 视图中绘画自定义蒙版。
   * **自定义蒙版 — 反转**：切换\
     反转蒙版。
 
@@ -80,22 +80,22 @@ ht-degree: 1%
 
 * **裂缝颜色**：颜色选择\
   更改裂缝所显示的内表面的颜色。
-* **裂缝粗糙度**： 0-1\
+* **粗糙度**： 0-1\
   调整裂缝的粗糙度值。
-* **裂缝粗糙度不透明度**： 0-1\
+* **粗糙度不透明度**： 0-1\
   调整&#x200B;**裂缝粗糙度**&#x200B;值对粗糙度图的影响程度
-* **裂缝金属**： 0-1\
+* **裂缝**： 0-1\
   修改裂缝的金属值。
-* **裂缝金属不透明度**： 0-1\
-  调整&#x200B;**裂缝金属**&#x200B;值对金属贴图的影响程度
+* **金属不透明度**： 0-1\
+  调整&#x200B;**金属**&#x200B;值对金属映射的影响程度
 * **Height强度**： 0-1\
-  调整深度。 这会影响滤镜的Height映射和法线映射结果。
+  调整深度。 这会影响筛选器的高度图和法线图结果。
 
 **高级参数**
 
 * **正常强度**： 0-1\
-  调整裂纹法向的强度。
+  调整裂纹法线的强度。
 * **Height范围**： 0-1\
-  修改完整素材的Height范围。 要调整裂缝的Height，请使用&#x200B;**裂缝>裂缝Height强度**。
+  修改完整材料的Height范围。 要调整裂缝的Height，请使用&#x200B;**裂缝>裂缝Height强度**。
 * **Height位置**： 0-1\
-  偏移完整素材的Height图。
+  偏移完整材料的高度图。

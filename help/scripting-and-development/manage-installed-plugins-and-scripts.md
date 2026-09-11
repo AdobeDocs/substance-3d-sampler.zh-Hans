@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/cn/substance-3d-sampler/scripting-and-development/manage-installed-plugins-and-scripts.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/scripting-and-development/manage-installed-plugins-and-scripts.html"
 breadcrumb-title: ''
 description: 了解如何在Substance 3D Sampler中管理已安装的增效工具和脚本，以安装、修改和删除自定义扩展。
 helpx_creative_field: ""
@@ -36,7 +36,7 @@ ht-degree: 0%
 
 ## 管理增效工具
 
-默认情况下，唯一可用的选项是“添加插件”。 这将打开一个文件资源管理器，您可以在其中选择要加载的PY文件。
+默认情况下，唯一可用的选项是“添加插件”。 这将打开一个文件资源管理器，从中可以选择要载入的PY文件。
 
 ![](../assets/manageplugins.png)
 

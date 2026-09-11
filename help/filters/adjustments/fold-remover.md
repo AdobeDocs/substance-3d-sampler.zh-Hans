@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/cn/substance-3d-sampler/filters/adjustments/fold-remover.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/adjustments/fold-remover.html"
 breadcrumb-title: ''
-description: 使用Substance 3D Sampler中的褶皱移除器滤镜从织物纹理中移除褶皱和折痕，以实现干净的材质表面。
+description: 使用Substance 3D Sampler中的“Fold Remover”（褶皱移除器）滤镜移除织物纹理中的褶皱和折痕，清洁材料表面。
 helpx_creative_field: ""
 helpx_description: Substance 3D Sampler
 helpx_experience_level: ""
@@ -33,7 +33,7 @@ ht-degree: 1%
 
 ## 描述
 
-快速移除织物材料中的褶皱和皱纹。
+快速消除织物材料中的褶皱和皱纹。
 
 </td>
 </tr>
@@ -44,7 +44,7 @@ ht-degree: 1%
 <b>基本参数</b>
 
 * <b>输入平铺</b>：切换\
-  启用此设置以确保此筛选器不会破坏拼贴材质。
+  启用此设置以确保此筛选器不会中断材料。
 * <b>半径</b>： 0-50\
   调整半径以控制滤镜尝试最小化的折叠的大小。 较小的半径可消除较精细的细节。
 * <b>本地详细信息</b>： 0-1\

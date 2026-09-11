@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/cn/substance-3d-sampler/interface/panels.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/interface/panels.html"
 breadcrumb-title: ''
-description: 了解Substance 3D Sampler界面中的面板，以访问材质创建工作流程的工具、设置和功能。
+description: 了解Substance 3D Sampler界面中的面板，以访问材料创建工作流程的工具、设置和功能。
 helpx_creative_field: ""
 helpx_description: Sampler > Interface > Panels
 helpx_experience_level: ""
@@ -24,7 +24,7 @@ Sampler中的每个面板都专用于特定的目的。 默认情况下，仅打
 
 * **项目面板**：允许您管理当前打开的项目中的资源。
 * **资源面板**：包含入门内容和其他可用于创建资源的资源库。
-* **图层面板**：显示所选资源的图层栈栈。
+* **图层面板**：显示所选资源的图层堆叠。
 * **属性面板**：显示当前所选图层的属性和参数 — **图层**&#x200B;和&#x200B;**属性面板**&#x200B;同时使用
 
 这些面板在创建资源的过程中最常使用。
@@ -44,7 +44,7 @@ Sampler中的每个面板都专用于特定的目的。 默认情况下，仅打
 
 默认情况下，以下面板存储在&#x200B;**右侧边栏**&#x200B;的顶部：
 
-* **公开参数面板**：允许您管理将资源导出为SBSAR或SBS文件时可用的参数。
+* **公开参数面板**：允许您管理在将资源导出为SBSAR或SBS文件时可用的参数。
 * **物理尺寸面板**：配置扫描样本和图像的真实物理尺寸。
 * **元数据面板**：通过添加描述或更改所选资源的作者名称来编辑元数据。
 * **导出面板**：将您的资源直接发送到其他应用程序或导出以供一般使用。

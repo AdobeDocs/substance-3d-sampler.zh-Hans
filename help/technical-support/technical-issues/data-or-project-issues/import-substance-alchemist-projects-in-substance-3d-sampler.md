@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/cn/substance-3d-sampler/technical-support/technical-issues/data-or-project-issues/import-substance-alchemist-projects-in-substance-3d-sampler.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/technical-support/technical-issues/data-or-project-issues/import-substance-alchemist-projects-in-substance-3d-sampler.html"
 breadcrumb-title: ''
-description: 了解如何将Substance Alchemist项目导入Substance 3D Sampler以迁移现有的材质项目和工作流。
+description: 了解如何将Substance Alchemist项目导入Substance 3D Sampler以迁移现有材料项目和工作流程。
 helpx_creative_field: ""
 helpx_description: Sampler > Technical Support > Technical Issues > Data or project issues > Import Substance Alchemist projects in Substance 3D Sampler
 helpx_experience_level: ""
@@ -36,4 +36,4 @@ ht-degree: 0%
 1. 转到&#x200B;**.alch**&#x200B;文件所在的文件夹。
 1. 打开&#x200B;**.alch**&#x200B;文件（确保&#x200B;**依赖项**&#x200B;文件夹仍然位于.alch文件旁边）。
 
-您的所有材料都将列在“项目”面板的“材料”部分下。
+您的所有材料都将列在“项目”面板中的“材料”部分下。

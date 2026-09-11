@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/cn/substance-3d-sampler/interface/panels/assets-panel.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/interface/panels/assets-panel.html"
 breadcrumb-title: ''
-description: 了解如何使用Substance 3D Sampler中的资源面板浏览、整理和访问您的素材资源和资源。
+description: 了解如何使用Substance 3D Sampler中的资源面板浏览、整理和访问您的材料资源和资源。
 helpx_creative_field: ""
 helpx_description: Sampler > Interface > Panels > Assets panel
 helpx_experience_level: ""
@@ -22,7 +22,7 @@ ht-degree: 1%
 
 ![](../../assets/Assets-panel-gen.png.img.png)
 
-**资源面板**&#x200B;包含可用于构建创意的资源。 Sampler包含材质、滤镜和纹理生成器收藏集，可帮助您快速入门。
+**资源面板**&#x200B;包含可用于构建创意的资源。 Sampler提供了一组材料、滤镜和纹理生成器，可帮助您快速入门。
 
 **资源面板**&#x200B;包含一些控件，可帮助组织和查找资源：
 
@@ -37,7 +37,7 @@ ht-degree: 1%
 
 ## 激活其他渠道
 
-将素材从资源面板拖放到图层栈叠时，可能会为您提供激活额外通道的机会。 当素材输出一个当前未在您的资源中激活的频道时，会提供此选项。 如果您想从材料的全部复杂程度（如某些各向异性效果或涂层）中获益，则可能需要激活它。
+将材料从资源面板拖放到图层堆叠时，可能会向您提供激活额外渠道的机会。 当材料输出当前未在您的资源中激活的频道时，会提供此选项。 如果您想从材料的全部复杂性中获益，如某些各向异性效果或涂层，则您可能需要激活它。
 
 ![将素材添加到图层栈栈时，通道激活弹出窗口](../../../help/assets/sampler_assets-panel_additional-channels-activation.png)
 

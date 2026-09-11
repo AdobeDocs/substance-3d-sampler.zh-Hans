@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/cn/substance-3d-sampler/filters/tools.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/tools.html"
 breadcrumb-title: ''
-description: 了解如何使用Substance 3D Sampler中的工具筛选器修复技术问题并增强素材创建工作流程。
+description: 了解如何使用Substance 3D Sampler中的工具筛选器修复技术问题并增强材料创建工作流程。
 helpx_creative_field: ""
 helpx_description: Sampler > Filters > Tools
 helpx_experience_level: ""
@@ -20,19 +20,19 @@ ht-degree: 4%
 
 # 工具
 
-工具是Sampler中最大的滤镜集，因此很难了解是什么使他们与众不同。 了解工具滤镜最简单的方法是，它们用于修复素材的技术问题。
+工具是Sampler中最大的滤镜集，因此很难了解是什么使他们与众不同。 了解工具滤镜最简单的方法是，它们用于修复材料的技术问题。
 
-许多工具可用于图像和材质。 通常最好先使用滤镜对图像进行校正，然后再将其转换为素材的一部分。 通过先校正图像，这些工具只需要在单个通道（即图像数据）上工作，而校正材质需要校正多个通道。 仅校正单个通道不仅会减少所需的处理量，还会降低出错的可能性。
+许多工具可用于图像和材料。 通常，在将图像转换为材料的一部分之前，最好使用滤镜来校正图像。 通过先校正图像，这些工具只须处理一个单通道，即图像数据，而校正材料需要校正多个声道。 只有校正单通道才能减少所需的处理量，但也降低了出错的可能性。
 
-工具滤镜通常使用&#x200B;**2D视图**&#x200B;中的手柄和其他控件，因此，最好在处理工具时显示&#x200B;**2D视图**。
+工具滤镜通常使用&#x200B;**2D 视图**&#x200B;中的手柄和其他控件，因此最好在处理工具时显示&#x200B;**2D 视图**。
 
 >[!NOTE]
 >
 > 某些工具可在&#x200B;**左侧边栏**&#x200B;中找到，以便快速访问：
 > 
 > * [裁剪](crop-tool.md)
-> * [透视变换](perspective-correction.md)
-> * [转换](transform.md)
+> * [变换](perspective-correction.md)
+> * [变换](transform.md)
 > * [仿制图章](clone-stamp.md)
 
 Sampler包括以下工具：
@@ -46,12 +46,12 @@ Sampler包括以下工具：
 * [Delight（AI驱动）](delight-ai-powered.md)
 * [对AO的Height](height-to-ao.md)
 * [正常Height](height-to-normal.md)
-* [图像到材质](image-to-material.md)
+* [图像到材料](image-to-material.md)
 * [使其平铺](make-it-tile.md)
 * [匹配](match.md)
 * [多角度转材质](multiangle-to-material.md)
 * [正常到Height](normal-to-height.md)
-* [绘画变形](https://helpx.adobe.com/cn/substance-3d/unlisted/documentation/sadoc/paint-warp-255426602.html)
+* [绘画变形](https://helpx.adobe.com/substance-3d/unlisted/documentation/sadoc/paint-warp-255426602.html)
 * [PBR 验证](pbr-validate.md)
 * [透视校正](perspective-correction.md)
 * [平铺](tiling.md)
