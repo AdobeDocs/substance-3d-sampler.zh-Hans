@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/cn/substance-3d-sampler/filters/generators/stonewall.html"
 breadcrumb-title: ''
-description: 使用Substance 3D Sampler中的“石墙”生成器为材质创建逼真的石墙图案和砖石纹理。
+description: 使用Substance 3D Sampler中的“石墙”生成器为材料创建逼真的石墙图案和砖墙纹理。
 helpx_creative_field: ""
 helpx_description: Sampler > Filters > Generators > Stonewall
 helpx_experience_level: ""
@@ -33,7 +33,7 @@ ht-degree: 1%
 
 ## 描述
 
-使用“石墙”滤镜将您的材质快速嵌入到旧石墙中。
+使用“石墙”滤镜可将材料快速嵌入到旧石墙中。
 
 </td>
 </tr>
@@ -48,7 +48,7 @@ ht-degree: 1%
 * **石头图案**：\
   选择用于排列石头的图案
 * **石头数量**： 4-18\
-  调整石头数量以将材质分割为
+  调整石头数量以将材料分割为
 * **石头圆度**： 0-1\
   控制石头边缘的磨损
 * **石头拼合量**： 0-1\
@@ -60,7 +60,7 @@ ht-degree: 1%
 * **迫击炮颜色**：颜色选择\
   调整石头之间砂浆的颜色
 * **颗粒数量**： 0-1\
-  更改应用于素材的颗粒和Dirt量
+  更改应用于材料的颗粒和Dirt量
 * **颗粒颜色**：颜色选择\
   选择污垢的颜色
 

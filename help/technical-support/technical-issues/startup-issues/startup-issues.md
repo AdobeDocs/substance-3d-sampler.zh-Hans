@@ -21,4 +21,4 @@ ht-degree: 0%
 # 启动问题
 
 * [应用程序无法在Linux上启动](application-doesn-t-start-on-linux.md)
-* [启动时崩溃 — 旧操作系统版本](crash-at-start-up-old-obs-version.md)
+* [启动时崩溃 — 旧作业版本](crash-at-start-up-old-obs-version.md)

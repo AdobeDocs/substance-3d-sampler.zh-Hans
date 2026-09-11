@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/substance-3d-sampler/technical-support/technical-issues/startup-issues/crash-at-start-upold-obs-version.html"
 breadcrumb-title: ''
-description: 了解如何修复由于系统上的旧OBS版本冲突而导致启动时Substance 3D Sampler崩溃的问题。
+description: 了解如何在启动时修复由系统上的旧OBS版本冲突导致的崩溃。
 helpx_creative_field: ""
 helpx_description: Substance 3D Sampler
 helpx_experience_level: ""

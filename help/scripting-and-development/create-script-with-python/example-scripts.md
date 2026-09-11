@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/cn/substance-3d-sampler/scripting-and-development/create-a-script-with-python/example-scripts.html"
 breadcrumb-title: ''
-description: 访问适用于Substance 3D Sampler的Python脚本示例，了解如何使用API并自动执行素材创建工作流程。
+description: 访问适用于Substance 3D Sampler的Python脚本示例，了解如何使用API并自动执行材料创建工作流程。
 helpx_creative_field: ""
 helpx_description: Sampler > Scripting and Development > Create a Script with Python > Example Scripts
 helpx_experience_level: ""
@@ -24,7 +24,7 @@ ht-degree: 0%
 
 ## 全部导出
 
-使用各种导出预设导出素材。
+使用各种导出预设导出材料。
 
 ### export\_all.py
 
@@ -186,7 +186,7 @@ with open(csv_path, newline='') as csvfile:
 
 ## 公开所有颜色参数
 
-此脚本公开图层栈栈中每个图层的颜色参数。
+此脚本将图层堆叠中每个图层的color参数。
 
 ### expose\_all\_color\_parameters.py
 
@@ -227,11 +227,11 @@ for layer in my_asset_layers:
 ```
 
 
-## 图层栈栈模板
+## 图层堆叠模板
 
-此脚本自动将一组滤镜（在脚本中定义）添加到当前素材。
+此脚本自动将一组过滤器（在脚本内定义）添加到当前材料。
 
-### layer\_stack\_template.py
+### layer\_template\_堆叠.py
 
 ```
 import substance_sampler as ssa 

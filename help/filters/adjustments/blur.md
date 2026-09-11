@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/cn/substance-3d-sampler/filters/adjustments/blur.html"
 breadcrumb-title: ''
-description: 在Substance 3D Sampler中使用“模糊”滤镜应用模糊效果，并降低纹理和素材图层的图像锐化程度。
+description: 在纹理和材料图层中使用Substance 3D Sampler中的“模糊”滤镜应用模糊效果并降低图像锐度。
 helpx_creative_field: ""
 helpx_description: Sampler > Filters > Adjustments > Blur
 helpx_experience_level: ""
@@ -33,9 +33,9 @@ ht-degree: 2%
 
 ## 描述
 
-模糊完整素材或选择要模糊的特定通道。
+模糊整个材料或选择要模糊的特定通道。
 
-在下面图像中，**模糊滤镜**&#x200B;已应用于基本颜色通道。
+已将&#x200B;**模糊滤镜**&#x200B;下方的图像应用于base color通道。
 
 <table>
 <tr style="border: 0;">
@@ -69,7 +69,7 @@ ht-degree: 2%
 
 >[!NOTE]
 >
-> 通道特定模糊会覆盖&#x200B;**基本参数>强度**&#x200B;模糊，用于完整素材。 因此，如果您将材质模糊强度设置为1，但启用通道，并将模糊强度设置为0，则通道根本不会模糊，而所有其他通道都将模糊。
+> 通道特定模糊会覆盖&#x200B;**基本参数>强度**&#x200B;模糊，用于整个材料。 因此，如果将材料模糊强度设置为1，但启用通道，并将通道模糊强度设置为0，则完全不会模糊通道，而所有其他通道都将模糊。
 
 * ***通道*** **— 自定义模糊强度**：切换\
   启用通道特定的模糊值。

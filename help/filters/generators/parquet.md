@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/cn/substance-3d-sampler/filters/generators/parquet.html"
 breadcrumb-title: ''
-description: 使用Substance 3D Sampler中的镶板生成器为素材创建逼真的镶板木地板图案和纹理。
+description: 使用Substance 3D Sampler中的镶板生成器为材料创建逼真的镶板木地板图案和纹理。
 helpx_creative_field: ""
 helpx_description: Sampler > Filters > Generators > Parquet
 helpx_experience_level: ""
@@ -33,7 +33,7 @@ ht-degree: 0%
 
 ## 描述
 
-将您的素材转换为镶板地板。
+将材料转换为镶板地板。
 
 *使用&#x200B;**镶板滤镜**&#x200B;将木质材料转换为镶板图案。*
 
@@ -69,24 +69,24 @@ ht-degree: 0%
 * **图案类型**：\
   选择镶板图案
 * **X数量**： 1-30\
-  更改X轴上的木板数
+  更改X轴上的木板数量
 * **Y数量**： 1-30\
   更改Y轴上的木板数量
 * **接缝距离**： 0-1\
-  修改斜面与木板接缝的距离
+  修改斜角围绕木板接缝的距离
 * **平板变形**： 0-1\
-  自动改变每个木板的颜色和粗糙度
+  自动改变每个木板的粗糙度和颜色
 
 **高级**
 
 * **英文模式偏移**： 0-1 （此参数仅在&#x200B;**基本参数>模式类型**&#x200B;设置为&#x200B;**英文**&#x200B;时可用）\
   更改每行木板与前一行的偏移量
 * **接缝强度**： 0-1\
-  调整木板之间接缝的法线，使其或多或少引人注目
-* **接缝斜角曲线**： 0-1\
+  调整木板之间接缝的法线，使其或多或少地引人注目
+* **斜角曲线**&#x200B;接缝：0-1\
   修改木板之间斜角的宽度
-* **接缝Height范围**： 0-1\
-  调整接缝Height
+* **接缝的Height范围**： 0-1\
+  调整接缝的Height
 * **木板法向旋转变化**： 0-1\
   使每个木板的角度随机改变
 * **木板粗糙度变化**： 0-1\

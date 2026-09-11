@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/cn/substance-3d-sampler/features-and-workflows/texture-import.html"
 breadcrumb-title: ''
-description: 了解如何将纹理导入Substance 3D Sampler以在您的材质创建工作流程中使用现有图像文件。
+description: 了解如何将纹理导入Substance 3D Sampler，以在您的材料创建工作流程中使用现有图像文件。
 helpx_creative_field: ""
 helpx_description: Sampler > Features and workflows > Texture Import
 helpx_experience_level: ""
@@ -22,25 +22,25 @@ ht-degree: 5%
 
 ![](../assets/Capture-decran-2025-02-19-162128.png.img.png)
 
-**纹理导入**&#x200B;模板将加载多个图像，并根据其文件名自动将其连接到正确的输出通道。
+**纹理导入**&#x200B;模板将加载多个图像，并根据其文件名自动将它们连接到正确的输出通道。
 
-通道匹配基于下面详述的特定命名约定。 如果存在重复项目或不匹配的纹理，则将在界面中按此方式标记图像。
+通道匹配基于下面详述的特定命名约定。 如果存在重复项或没有匹配项的纹理，则将在界面中将图像标记为此类图像。
 
 ## OpenPBR
 
-Sampler会将带有以下OpenPBR标识符的文件与素材中的等效通道进行匹配。
+Sampler会将具有以下OpenPBR标识符的文件与材料中的等效频道进行匹配。
 
 >[!NOTE]
 >
-> Height通道标识符与用于ASM的通道标识符相同。
+> Height通道标识符与用于ASM的通道相同。
 
 
-| OpenPBR标识符 | SBSAR用法 |
+| 标识符 | SBSAR用法 |
 | --- | --- |
 | base_weight | baseWeight |
 | base_color | 基色 |
-| base_metalness | 金属性/金属性 |
-| base_spream_roughness | baseSpreamRoughness |
+| base_metalness | 金属度/金属 |
+| base_spream_粗糙度 | baseSpreamRoughness |
 | Specular_权重 | 镜面粗细 |
 | Specular | specularColor |
 | Specular_粗糙度 | 镜面粗糙度/粗糙度 |
@@ -51,9 +51,9 @@ Sampler会将带有以下OpenPBR标识符的文件与素材中的等效通道进
 | 传输深度 | transmissionDepth/absorptionDistance |
 | 传输散点 | transmissionScatter |
 | 传输各向异性 | transmissionScatterInspeciality |
-| transmission_dispersion_scale | transmissionDispersionScale |
-| transmission_dispersion_abbe_number | transmissionDispersionAbbeNumber |
-| subsurface_weight | subsurfaceWeight/transparency |
+| 传输色散缩放 | transmissionDispersionScale |
+| transmission_色散_abbe_number | transmissionDispersionAbbeNumber |
+| subsurface_weight | subsurfaceWeight/translucency |
 | subsurface_color | subsurfaceColor/scatteringColor |
 | subsurface_radius | subsurfaceRadius/scatteringDistance |
 | subsurface_radius_scale | subsurfaceRadiusScale/scatteringDistanceScale |
@@ -76,18 +76,18 @@ Sampler会将带有以下OpenPBR标识符的文件与素材中的等效通道进
 | 不透明度 | 不透明度 |
 | 薄壁 | 薄壁 |
 | 正常 | 正常 |
-| 切线 | 切线 |
+| 正切 | 正切 |
 | 涂层_正常 | coatNormal |
-| coat_tangent | coatTangent |
+| 涂层_正切 | coatTangent |
 
 ## Adobe 标准材质
 
 下面列出了每个通道支持的文件命名约定：
 
-| **频道** | **Adobe标准素材** |
+| **频道** | **Adobe Standard Material** |
 | --- | --- |
-| **环境遮蔽** | <ul><li>环境包容</li><li>ao</li><li>遮蔽</li><li>ambient_occlusion</li></ul> |
-| **基色** | <ul><li>基色</li><li>颜色</li><li>反照率</li><li>base_color</li><li>基底</li><li>列</li><li>颜色</li><li>base_color</li><li>基色</li></ul> |
+| **Ambient occlusion** | <ul><li>环境包容</li><li>ao</li><li>遮蔽</li><li>ambient_occlusion</li></ul> |
+| **Base color** | <ul><li>基色</li><li>颜色</li><li>反照率</li><li>base_color</li><li>基底</li><li>列</li><li>颜色</li><li>base_color</li><li>基色</li></ul> |
 | **扩散** | <ul><li>扩散</li><li>差异</li></ul> |
 | **具发射性** | <ul><li>自发光</li></ul> |
 | **光泽度** | <ul><li>光泽度</li><li>光亮</li></ul> |

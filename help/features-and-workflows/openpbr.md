@@ -1,6 +1,6 @@
 ---
 breadcrumb-title: ''
-description: 了解如何在Substance 3D Sampler中使用OpenPBR创建与3D生态系统其余部分兼容的材料。
+description: 了解如何在Substance 3D Sampler中使用OpenPBR创建与3D生态系统的其余部分兼容的材料。
 title: Substance 3D Sampler中的OpenPBR
 user-guide-description: ''
 user-guide-title: ''
@@ -19,9 +19,9 @@ ht-degree: 0%
 
 OpenPBR是一种开放的、基于物理的表面着色模型，旨在提供一致且可预测的方式以描述跨不同3D工具、渲染器和管道的材料。 它定义了一个单一、全面的材质模型，能够呈现广泛的真实世界表面，同时保持足够的灵活性，以使用物理上有意义的参数支持更具风格化或艺术家驱动的外观。
 
-在Substance 3D Sampler中，可以通过进入“通道”设置将材质从ASM材质模型切换到OpenPBR。
+在Substance 3D Sampler中，可以通过进入“通道”设置将材料从ASM材质模型切换到OpenPBR。
 
-也可以将ASM材质导出到材质模型，反之亦然。
+也可以将ASM材料导出到OpenPBR材质模型，反之亦然。
 
 >[!TIP]
 >

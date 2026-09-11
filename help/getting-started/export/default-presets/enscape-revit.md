@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/cn/substance-3d-sampler/getting-started/export/default-presets/enscape-revit.html"
 breadcrumb-title: ''
-description: 了解如何使用Enscape Revit预设从Substance 3D Sampler导出素材，实现建筑可视化工作流程。
+description: 了解如何使用Enscape Revit预设从Substance 3D Sampler导出材料，实现架构可视化工作流程。
 helpx_creative_field: ""
 helpx_description: Sampler > Getting Started > Export > Default Presets > Enscape - Revit
 helpx_experience_level: ""

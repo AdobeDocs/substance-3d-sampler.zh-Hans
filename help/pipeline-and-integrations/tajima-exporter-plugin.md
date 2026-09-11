@@ -1,13 +1,13 @@
 ---
 helpx_url: "https://helpx.adobe.com/cn/substance-3d-sampler/pipeline-and-integrations/tajima-exporter-plugin.html"
 breadcrumb-title: ''
-description: 了解如何在Substance 3D Sampler中使用Tajima Exporter增效工具将刺绣设计导出到Tajima DG17软件。
+description: 了解如何使用Substance 3D Sampler中的田岛导出器增效工具将刺绣设计导出到田岛DG17软件。
 helpx_creative_field: ""
 helpx_description: Substance 3D Sampler
 helpx_experience_level: ""
 helpx_learn_topic: ""
 helpx_tags: ""
-title: Tajima导出器增效工具
+title: Tajima导出器插件
 user-guide-description: ''
 user-guide-title: ''
 source-git-commit: 55277f7a92e97bf530dd2a2edf4e16c88bb57793
@@ -18,7 +18,7 @@ ht-degree: 0%
 ---
 
 
-# 刺绣文件的Tajima导出器增效工具
+# 刺绣文件的大岛增效工具导出器
 
 通过此首次概念验证，您现在可以将其数字刺绣设计从Adobe的Substance 3D直接转移到<b>Tajima DG17</b>刺绣软件 — 无需费时的手动数字化。
 
@@ -46,7 +46,7 @@ ht-degree: 0%
 
 ## 安装
 
-打开包含刺绣素材的Sampler（5.0.3或更高版本）项目。
+使用刺绣材料打开您的Sampler（5.0.3或更高版本）项目。
 
 ![](../assets/tajima-doc-embroidery-stars.png)
 

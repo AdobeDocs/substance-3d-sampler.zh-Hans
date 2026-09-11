@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/cn/substance-3d-sampler/features-and-workflows/end-to-end-physical-size-workflow.html"
 breadcrumb-title: ''
-description: 了解如何使用Substance 3D Sampler中的端到端物理尺寸工作流程创建与现实世界规模相匹配的准确物理素材。
+description: 了解如何使用Substance 3D Sampler中的端到端物理尺寸工作流程来创建与现实世界规模相匹配的物理上准确的材料。
 helpx_creative_field: ""
 helpx_description: Sampler > Features and workflows > End to end Physical Size Workflow
 helpx_experience_level: ""
@@ -40,13 +40,13 @@ ht-degree: 0%
    <b>您现在可以处理扫描</b>
 1. 添加裁剪并根据样本进行调整。 您可以看到更新后的2D视口右下角显示的物理尺寸。
 
-   在2D视口中显示物理比例，以准确查看您正在处理的映射。\
-   您可以将2D视图设置为适合物理尺寸，以便网屏比的DPI与您的材质比例相匹配。 换句话说，您可以将真实样本放在屏幕旁边，以验证尺寸。
+   在2D视口中显示物理比例，以准确查看您正在处理的贴图。\
+   您可以将2D 视图设置为适合物理尺寸，以便屏幕比的DPI与材料比例相匹配。 换句话说，您可以将真实样本放在屏幕旁边，以验证尺寸。
 
    ![](../assets/cq5dam.web.1280.png)
 1. 添加“色调均化”以去掉任何渐变。
-1. 添加拼贴以更正拼贴
-1. 如果需要，变形变换仅重新对齐地图的某些部分非常有用。
+1. 添加拼贴以修正拼贴
+1. 如果需要，变形变换对于仅重新对齐地图的某些部分非常有用。
 
    <b>准备导出</b>
 1. 导出为

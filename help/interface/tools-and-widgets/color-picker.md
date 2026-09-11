@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/cn/substance-3d-sampler/interface/tools-and-widgets/color-picker.html"
 breadcrumb-title: ''
-description: 了解如何在Substance 3D Sampler中使用拾色器为材质、滤镜和纹理编辑选择颜色。
+description: 了解如何在Substance 3D Sampler中使用拾色器为材料、滤镜和纹理编辑选择颜色。
 helpx_creative_field: ""
 helpx_description: Sampler > Interface > Tools and Widgets > Color Picker
 helpx_experience_level: ""

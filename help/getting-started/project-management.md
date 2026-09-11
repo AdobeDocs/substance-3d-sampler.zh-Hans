@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/cn/substance-3d-sampler/getting-started/project-management.html"
 breadcrumb-title: ''
-description: 了解如何在Substance 3D Sampler中使用收藏夹管理项目，以组织资源和素材以实现高效的工作流程。
+description: 了解如何在Substance 3D Sampler中使用集合管理项目，以组织资源和材料以实现高效的工作流程。
 helpx_creative_field: ""
 helpx_description: Sampler > Getting Started > Manage your project
 helpx_experience_level: ""
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # Project management
 
-在Substance 3D Sampler中，您可以使用收藏集来管理所有资源和素材。 项目是组织素材的好方法。 项目可以导出或导入，以便在计算机之间轻松共享。
+在Substance 3D Sampler中，您可以使用收藏集来管理所有资源和材料。 项目是整理材料的好方法。 项目可以导出或导入，以便在计算机之间轻松共享。
 
 ## 创建新项目
 
@@ -38,7 +38,7 @@ ht-degree: 0%
 
 若要保存项目，请使用<b>文件>保存</b>或<b>另存为</b>菜单操作。 此时将打开一个对话框，供您选择要使用哪个名称以及保存项目文件的位置。
 
-或者，您可以使用快捷键<b>Ctrl + S</b>到<b>保存</b>或<b>Ctrl + Shift + S</b>到<b>另存为</b>。
+或者，您可以使用<b>Ctrl + S</b>快捷键到<b>保存</b>或<b>Ctrl + Shift + S</b>订阅<b>另存为</b>。
 
 保存的项目显示为名为<b>YourProject.ssa</b>的文件。 SSA是取样器文件格式，用于存储有关您的项目及其可能具有的任何依赖项的信息。
 

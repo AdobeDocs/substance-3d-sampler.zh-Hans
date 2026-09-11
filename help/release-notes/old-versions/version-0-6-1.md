@@ -24,9 +24,9 @@ ht-degree: 0%
 
 已添加：
 
-* [Engine]Substance 引擎更新，以便与最新的Substance Designer版本兼容
+* [引擎]Substance 引擎更新，以便与最新的Substance Designer版本兼容
 * [License]更新首次安装的许可证文件夹
-* [图层]可随时重新加载图层栈栈以更新自定义滤镜
+* [图层]可随时重新加载图层堆叠以更新自定义滤镜
 
 已修复：
 

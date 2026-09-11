@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # 脚本编写和开发
 
-Adobe Substance 3D Sampler支持通过Sampler Python API使用自定义插件。 增效工具对每个Sampler用户都很有帮助 — 从自动为大型素材库创建素材，到自动为新安装执行设置或添加新功能。
+Adobe Substance 3D Sampler支持通过Sampler Python API使用自定义插件。 增效工具对每个Sampler用户都很有帮助 — 从自动为大型材料库创建材料，到自动为新安装执行设置，或添加新功能。
 
 安装Sampler时包含该API的完整文档。 您可以在Sampler中打开API文档：
 

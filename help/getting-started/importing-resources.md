@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/cn/substance-3d-sampler/getting-started/importing-resources.html"
 breadcrumb-title: ''
-description: 了解如何将图像和Substance文件等资源导入Substance 3D Sampler以强化您的材质创建工作流程。
+description: 了解如何将图像和Substance文件等资源导入Substance 3D Sampler以增强材料创建工作流程。
 helpx_creative_field: ""
 helpx_description: Sampler > Getting Started > Importing Resources
 helpx_experience_level: ""
@@ -26,13 +26,13 @@ Sampler可以使用图像和Substance文件等外部资源来修改您的项目�
 
 ![](../assets/importing-resources-Importwindow.png)
 
-* 从<b>左栏</b>中使用<b>获取内容</b>按钮，然后选择<b>在图层栈栈中导入</b>或<b>导入您的资源</b>。 这两个选项都将打开一个文件资源管理器，您可以在其中导航并选择要导入的一个或多个文件。
+* 从<b>左侧栏</b>中使用<b>获取内容</b>按钮，然后选择<b>在图层堆叠中导入</b>或<b>在您的资源中导入</b>。 这两个选项都将打开一个文件资源管理器，您可以在其中导航并选择要导入的一个或多个文件。
   * <b>在图层栈栈中导入</b>导入当前项目的文件。
   * <b>导入您的资源</b>导入该文件，以便可以从任何项目访问它。
 
 ![](../assets/Project_CreateNew.png)
 
-* 在<b>图层</b>面板中，如果未创建任何图层，则可以使用可用的链接导入文件，以构成素材的基础。
+* 在<b>图层</b>面板中，如果未创建任何图层，则可以使用可用的链接导入文件，以形成材料的基础。
 
 >[!NOTE]
 >

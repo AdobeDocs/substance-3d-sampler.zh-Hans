@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/cn/substance-3d-sampler/filters/wear-and-finish.html"
 breadcrumb-title: ''
-description: 了解如何在Substance 3D Sampler中使用“磨损”和“光洁度”滤镜，为材质添加风化、老化和表面光洁度效果。
+description: 了解如何在Substance 3D Sampler中使用“磨损”和“光洁度”滤镜，为材料添加风化、老化和表面光洁度效果。
 helpx_creative_field: ""
 helpx_description: Sampler > Filters > Wear and Finish
 helpx_experience_level: ""
@@ -20,7 +20,7 @@ ht-degree: 4%
 
 # 磨损和精加工
 
-Sampler的“磨损”和“磨光”滤镜可让您快速更改素材的外观和感觉。 使用&#x200B;**铁锈**&#x200B;和&#x200B;**Dirt**&#x200B;等滤镜，使抛光的金属表面看起来老旧且被丢弃，或使用&#x200B;**水**&#x200B;和&#x200B;**Snow**&#x200B;在不同季节查看您的素材。 “磨损”和“磨光”滤镜多种多样，并且许多滤镜都高度可定制。
+Sampler的“Wear and Finish”（磨损）和“Finish”（磨光）滤镜可以快速改变材料的外观。 使用&#x200B;**铁锈**&#x200B;和&#x200B;**Dirt**&#x200B;等滤镜，使磨光的金属表面看起来老旧且被丢弃，或使用&#x200B;**水**&#x200B;和&#x200B;**Snow**&#x200B;在不同季节查看您的材料。 “磨损”和“磨光”滤镜多种多样，并且许多滤镜都高度可定制。
 
 下列滤镜属于“磨损和精加工”类别：
 

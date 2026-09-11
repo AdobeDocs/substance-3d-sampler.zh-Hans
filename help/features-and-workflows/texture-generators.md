@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/cn/substance-3d-sampler/features-and-workflows/texture-generators.html"
 breadcrumb-title: ''
-description: 了解如何在Substance 3D Sampler中使用纹理生成器创建用于素材创作的程序性纹理和图案。
+description: 了解如何在Substance 3D Sampler中使用纹理生成器为材料创建创建程序化的纹理和图案。
 helpx_creative_field: ""
 helpx_description: Substance 3D Sampler
 helpx_experience_level: ""
@@ -22,7 +22,7 @@ ht-degree: 1%
 
 ![](../assets/sa_whats-new-screen_v4-3-0_generators.png)
 
-纹理生成器使用<b>参数噪声、图案</b>和<b>邋遢</b>选项更好地控制素材创建。 生成的图像可用于蒙版或通道映射中。
+纹理生成器使用<b>参数噪声、图案</b>和<b>邋遢</b>选项改进了材料创建控制。 生成的图像可用于蒙版或通道映射中。
 
 <table>
 <tr style="border: 0;">
@@ -33,7 +33,7 @@ ht-degree: 1%
 </td>
 <td style="border: 0;" valign="top">
 
-纹理生成器是Substance 3D Sampler中的一种资源。 可以使用“纹理生成器”图标在“资源”面板中筛选这些素材。
+纹理生成器是Substance 3D Sampler中的一种资源。 可使用“纹理生成器”图标在“资源”面板中筛选这些资源。
 
 </td>
 </tr>
@@ -43,15 +43,15 @@ ht-degree: 1%
 
 ### 通道映射
 
-在3D视图、2D视图或图层栈叠中拖放纹理生成器，然后选择一个通道以使用它。
+在3D视图、2D 视图或图层堆叠中拖放纹理生成器，然后选择一个通道以使用它。
 
 ![](../assets/DndTexgen.gif)
 
-将在栈栈中创建填充滤镜，并使用右侧输入中的纹理生成器。 您可以在属性面板中访问纹理生成器属性。
+将在右侧输入有纹理生成器的堆叠中创建填充滤镜。 您可以在“属性”面板中访问纹理生成器属性。
 
 #### 滤镜
 
-某些滤镜（如<b>镶板</b>）默认使用纹理生成器作为图案蒙版。其他增效工具则使用图像或纹理生成器，例如<b>图案</b>滤镜。\
+某些滤镜（如<b>镶板</b>）默认使用图案蒙版的纹理生成器。其他人则使用图像或纹理生成器，如<b>图案</b>滤镜。\
 在滤镜中，可以在任何图像属性中使用纹理生成器，例如<b>自定义蒙版</b>。
 
 滤镜可以建议要使用的生成器，当您单击图像属性时，这些生成器将显示在新的资源选取器中。
@@ -64,13 +64,13 @@ ht-degree: 1%
 
 [使用Sampler的纹理生成器设计衣料](https://creativecloud.adobe.com/cc/learn/substance-3d-sampler/web/fabric-texture-generator?locale=en)
 
-[用Substance 3D Sampler在几分钟内制备碳纤维材料](https://creativecloud.adobe.com/cc/learn/substance-3d-sampler/web/create-carbon-fiber-material?locale=en)
+[用Substance 3D Sampler在几分钟内材料碳纤维](https://creativecloud.adobe.com/cc/learn/substance-3d-sampler/web/create-carbon-fiber-material?locale=en)
 
-[使用Substance 3D Sampler只需几分钟即可获得格子布料](https://creativecloud.adobe.com/cc/learn/substance-3d-sampler/web/create-plaid-fabric-material?locale=en)
+[利用Substance 3D Sampler在几分钟内完成格子结构材料](https://creativecloud.adobe.com/cc/learn/substance-3d-sampler/web/create-plaid-fabric-material?locale=en)
 
 ## 如何创建自定义纹理生成器
 
-您可以通过“图层栈栈”操作中的&#x200B;*导入*&#x200B;按钮导入使用Adobe Substance 3D Designer制作的纹理生成器。 必须在Designer中以特定方式构建这些代码，才能在Sampler中导入时正常工作。
+您可以通过图层堆叠操作中的&#x200B;*导入*&#x200B;按钮导入使用Adobe Substance 3D Designer制作的纹理生成器。 必须在Designer中以特定方式构建这些代码，才能在Sampler中导入时正常工作。
 
 ### 类型
 
@@ -82,7 +82,7 @@ ht-degree: 1%
 
 筛选器的筛选器输出节点必须定义<b>标识符</b>或<b>用法</b>：
 
-* 纹理生成器的主要输出不应有任何用法。 然后，它可以被3D Sampler识别为主要输出。
+* 纹理生成器的主输出不应有任何用法。 然后，它可以被3D Sampler识别为主要输出。
 
 <table>
 <tr style="border: 0;">
@@ -123,7 +123,7 @@ ht-degree: 1%
 
 >[!IMPORTANT]
 >
-> 如果您希望自定义纹理生成器位于过滤器建议资源列表中，则需要在Substance图表中添加以下用户数据：
+> 如果希望自定义纹理生成器位于筛选器建议资源列表中，则需要在Substance图形中添加以下用户数据：
 > 
 > alchemist：：suggestedfilters=[FilterName，FilterName2]；
 

@@ -20,10 +20,10 @@ ht-degree: 0%
 
 # 发送到任何应用程序
 
-从Sampler 4.5版开始，您现在可以将资源从Sampler直接发送到已实施连接器的任何应用程序。\
+从Sampler 4.5版本中，您现在可以将资源从Sampler直接发送到任何已实施连接器的应用程序。\
 它允许通过单击一次即可将资源从Sampler发送到第三方应用程序，从而避免必须手动执行导出和导入过程并节省时间。
 
-现在，Send-to可以在Blender、Unreal Engine、Unity、3ds Max和Maya中通过Substance增效工具使用。
+今天，Send-to可以在Blender、Unreal Plugines、Unity、3ds Max和Maya中通过Substance增效工具使用引擎。
 
 ## 支持的应用程序版本
 
@@ -31,7 +31,7 @@ ht-degree: 0%
 
 以下是您使用“发送到”功能所需的最低版本：
 
-* <b>不真实的引擎插件</b>
+* <b>虚构引擎增效工具</b>
   * 完全支持UE5.4之后的任何版本。
   * *已在UE Marketplace上发布*
 

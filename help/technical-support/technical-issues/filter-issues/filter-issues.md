@@ -20,5 +20,5 @@ ht-degree: 0%
 
 # 筛选问题
 
-* [图像到材质和欢乐缺失](image-to-material-and-delighter-are-missing.md)
-* [图像转换为素材紫色结果](image-to-material-visual-artefacts.md)
+* [缺少“图像到材料”和“愉悦”](image-to-material-and-delighter-are-missing.md)
+* [用于材料紫色结果的图像](image-to-material-visual-artefacts.md)

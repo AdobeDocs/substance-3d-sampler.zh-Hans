@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/cn/substance-3d-sampler/filters/hdri-tools/hdr-merge.html"
 breadcrumb-title: ''
-description: 使用Substance 3D Sampler中的HDR合并工具将多个曝光度图像合并为单个高动态范围图像。
+description: 使用Substance 3D Sampler中的HDR合并工具，将多个曝光度图像合并为单个高动态范围图像。
 helpx_creative_field: ""
 helpx_description: Sampler > Filters > HDRI Tools > HDR Merge
 helpx_experience_level: ""
@@ -39,11 +39,11 @@ ht-degree: 2%
 
 ![](../../assets/3d-2d-filters-cropped-0027-hdr-merge-in.jpg)
 
-**HDR合并**&#x200B;完成之前，**3D视图**&#x200B;中的球面会反射默认的环境光。 默认情况下，**2D视图**&#x200B;显示第一个扫描图像的导入图像数据，在本例中为曝光最低的图像。
+在完成&#x200B;**HDR合并**&#x200B;之前，**3D视图**&#x200B;中的球面会反映默认环境光。 默认情况下，**2D 视图**&#x200B;会显示第一个扫描图像的导入图像数据，在本例中是公开率最低的图像。
 
 ![](../../assets/3d-2d-filters-cropped-0026-hdr-merge-out.jpg)
 
-添加&#x200B;**HDR合并**&#x200B;**滤镜**&#x200B;后，球面反射新的环境光 — 从输入图像生成的HDR图像。
+添加&#x200B;**HDR合并** **滤镜**&#x200B;后，球面会反映新环境光 — 从输入图像生成的HDR图像。
 
 </td>
 </tr>
@@ -62,10 +62,10 @@ ht-degree: 2%
 
 ## 使用指南
 
-观看以了解如何使用&#x200B;**HDR合并滤镜**&#x200B;以及可帮助将SDR图像转换为HDR环境光的其他滤镜。
+观看以了解如何使用&#x200B;**HDR合并滤镜**&#x200B;以及其他有助于将SDR图像转换为HDR环境光的滤镜。
 
-使用&#x200B;**HDR合并** **筛选器**&#x200B;的基本步骤如下：
+使用&#x200B;**HDR Merge** **筛选器**&#x200B;的基本步骤如下：
 
-1. 导入要合并到图层栈叠的一组图像。
-1. 将&#x200B;**HDR合并滤镜**&#x200B;添加到图层栈栈。
+1. 导入要合并到图层堆叠中的图像集。
+1. 将&#x200B;**HDR合并筛选器**&#x200B;添加到图层堆叠。
 1. 修改参数以确保曝光度值正确。

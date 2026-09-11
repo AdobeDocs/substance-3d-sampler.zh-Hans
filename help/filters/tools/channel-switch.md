@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/cn/substance-3d-sampler/filters/tools/channel-switch.html"
 breadcrumb-title: ''
-description: 使用Substance 3D Sampler中的“通道切换”工具重新排列和交换纹理映射中的颜色通道，以创建素材。
+description: 使用Substance 3D Sampler中的“通道切换”工具重新排列和交换纹理映射中的颜色通道，以创建材料。
 helpx_creative_field: ""
 helpx_description: Sampler > Filters > Tools > Channel Switch
 helpx_experience_level: ""
@@ -31,7 +31,7 @@ ht-degree: 1%
 
 ## 描述
 
-切换素材输出映射的通道。
+切换材料输出映射的声道。
 
 </td>
 </tr>
@@ -50,7 +50,7 @@ ht-degree: 1%
 
 **高级**
 
-* **素材输入：**&#x200B;选择要用作输入的素材。
+* **输入材料：**&#x200B;选择要用作输入的材料。
 
 **蒙版**
 

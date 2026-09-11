@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/cn/substance-3d-sampler/filters/wear-and-finish/dirt.html"
 breadcrumb-title: ''
-description: 使用Substance 3D Sampler中的Dirt滤镜为素材和纹理添加逼真的Dirt积累和颗粒效果。
+description: 使用Substance 3D Sampler中的Dirt滤镜，为材料和纹理添加逼真的Dirt积累和颗粒效果。
 helpx_creative_field: ""
 helpx_description: Sampler > Filters > Wear and Finish > Dirt
 helpx_experience_level: ""
@@ -33,7 +33,7 @@ ht-degree: 1%
 
 ## 描述
 
-使用&#x200B;**Dirt筛选器**&#x200B;在素材上添加Dirt。 **Dirt滤镜**&#x200B;非常适合使素材看上去更老旧、更不必担心。
+使用&#x200B;**Dirt筛选器**&#x200B;在材料上添加Dirt。 **Dirt滤镜**&#x200B;非常适合使材料看起来更老旧、更不受关注。
 
 ![](../../assets/dirt-filter-ceramic-mozaic-tiles-before-tra.png)
 
@@ -59,22 +59,22 @@ ht-degree: 1%
   控制Dirt所覆盖的顶部表面，不关注材料的折痕
 
 * <b>Dirt对比度</b>： 0-1 \
-  调整不同Dirt杂点之间的对比度级别，以控制Dirt与底层素材混合的方式。
+  调整不同Dirt杂点之间的对比度级别，以控制Dirt与基础材料混合的方式。
 
 * <b>Dirt不透明度</b>： 0-1 \
-  控制基色通道中Dirt的透明度级别。 1完全不透明。
+  控制Dirt在base color声道中的透明度级别。 1完全不透明。
 
 * <b>Dirt颜色</b>： 0-1 \
   选择Dirt的颜色。
 
-* <b>Dirt粗糙度</b>： 0-1 \
-  调整光线在素材表面的散点方式
+* <b>粗糙度</b>： 0-1 \
+  调整光线在材料表面的散点方式
 
-* <b>Dirt金属</b>： 0-1 \
+* <b>金属</b>： 0-1 \
   定义Dirt表面的反射程度
 
 * <b>Height</b>： 0-1 \
-  控制Dirt对Height图的影响
+  控制Dirt对高度图的影响
 
 * <b>Dirt的正常强度</b>： 0-1 \
   控制Dirt级别对法线图的影响程度
@@ -83,4 +83,4 @@ ht-degree: 1%
   启用或禁用表面缺陷的使用。 如果启用，将显示其他控件：
 
   <b>表面瑕疵</b>：图像 \
-  导入图像以用作表面瑕疵，或使用Sampler资源库中默认提供的纹理生成器之一，例如“污渍”或“黑点”
+  导入图像以用作表面瑕疵，或使用Sampler资源库中默认提供的其中一个纹理生成器，例如“污渍”或“黑点”

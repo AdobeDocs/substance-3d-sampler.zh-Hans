@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/cn/substance-3d-sampler/interface.html"
 breadcrumb-title: ''
-description: 了解Substance 3D Sampler界面，包括视区、侧边栏和面板，以便高效地导航和使用应用程序。
+description: 了解Substance 3D Sampler界面，包括视口、侧边栏和面板，从而高效地导航和使用应用程序。
 helpx_creative_field: ""
 helpx_description: Sampler > Interface
 helpx_experience_level: ""
@@ -20,7 +20,7 @@ ht-degree: 6%
 
 # 界面
 
-Sampler的工作区由2D和3D视区、左右侧边栏以及一系列面板组成。 每个面板都专用于特定目的，因此不同的面板在创作过程的不同部分都很有用。
+Sampler的工作区由2D和3D视口、左右侧边栏以及一系列面板组成。 每个面板都专用于特定目的，因此不同的面板在创作过程的不同部分都很有用。
 
 <table>
 <tr style="border: 0;">
@@ -56,7 +56,7 @@ F.您可以从&#x200B;**右侧边栏**&#x200B;访问以下面板：
 * 元数据
 * 导出
 
-下面详细介绍了<b>应用程序菜单</b>。 **[面板](panels/panels.md)**、**[视区](2d-and-3d-viewport.md)**&#x200B;和&#x200B;**[侧边栏](sidebars.md)**&#x200B;各有自己的文章。
+下面详细介绍了<b>应用程序菜单</b>。 **[面板](panels/panels.md)**、**[视口](2d-and-3d-viewport.md)**&#x200B;和&#x200B;**[侧边栏](sidebars.md)**&#x200B;都有自己的文章。
 
 ## 自定义工作区
 
@@ -66,7 +66,7 @@ Sampler的工作区是完全可自定义的，因此您可以找到最适合您�
 
 单击并拖动面板的标题以开始移动它。
 
-您可以将面板停靠在视区边缘或其他面板上：将面板拖到要停靠的边缘上，这样将显示蓝色高光参考线。 看到这行时，请放下面板进行停靠。
+您可以将面板停靠在视口的边缘或其他面板上：将面板拖到要停靠的边缘上，这样就会出现一个蓝色的突出显示参考线。 看到这行时，请放下面板进行停靠。
 
 ## 打开和关闭面板
 
@@ -124,8 +124,8 @@ Sampler的工作区是完全可自定义的，因此您可以找到最适合您�
 | 论坛 | 打开论坛以加入与Substance 3D Sampler社区其他成员的对话，或提交您自己的帖子和建议。 |
 | 报告错误 | 报告Sampler的问题。 |
 | 导出日志 | 这对于解决使用Sampler时可能出现的问题非常有用。 |
-| Substance 3D 资源 | 打开Substance Source即可访问由Substance 3D团队创建和策划的巨大的材料库和其他资源。 |
-| Substance 3D 社区资源 | 打开Substance share以访问由Substance 3D社区成员创建的素材库和其他资源。 |
+| Substance 3D 资源 | 打开Substance Source即可访问由Substance 3D团队创建和策划的海量材料和其他资源。 |
+| Substance 3D 社区资源 | 打开Substance share以访问由Substance 3D社区成员创建的材料和其他资源的库。 |
 | 硬件信息 | 查看有关设备硬件的信息。 |
 | 关于Sampler | 请参阅有关已安装的Sampler版本的信息。 |
 

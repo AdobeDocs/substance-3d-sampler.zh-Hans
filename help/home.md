@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/cn/substance-3d-sampler/home.html"
 breadcrumb-title: ''
-description: 开始使用Substance 3D Sampler从图像创建材质、编辑环境光照和构建材质库。
+description: 开始使用Substance 3D Sampler以从图像创建材料、编辑环境光和构建材料库。
 helpx_creative_field: ""
 helpx_description: Sampler
 helpx_experience_level: ""
@@ -26,9 +26,9 @@ ht-degree: 10%
 
 <b>Substance 3D Sampler </b>允许您为物理资源创建数字孪生。
 
-使用此可访问的<b>多功能一体数字化软件</b>可利用强大的工具捕捉、处理和增强您的素材、模型和灯光。
+借助这款可访问的<b>多功能一体数字化软件</b>，您可以使用强大的工具捕捉、处理并增强您的材料、模型和灯光。
 
-组合不同的技术和创建方法以创建准确的数字材料，然后导出它们以在其他Substance或第三方3D应用程序中使用。
+组合不同的技术和创建方法以创建准确的数字材料，然后导出它们以在其他Substance或第三方3D应用程序中使用它们。
 
 </td>
 <td width="58.30%" style="border: 0;" valign="top">
@@ -56,7 +56,7 @@ ht-degree: 10%
 * [快速操作](features-and-workflows/quick-actions.md)
 * [HP Z Captis](pipeline-and-integrations/hp-z-captis-support/hp-z-captis-support.md)
 * [报告错误](getting-started/report-a-bug.md)
-* [项目管理](getting-started/project-management.md) — 使用收藏集管理您的资源和素材。
+* [项目管理](getting-started/project-management.md) — 使用收藏集管理您的资源和材料。
 * [导出](getting-started/export/export.md)
 
 </td>
@@ -76,7 +76,7 @@ ht-degree: 10%
 
 ### 功能和工作流程
 
-* [图像到材质（AI驱动）](filters/tools/image-to-material.md)
+* [图像到材料（AI支持）](filters/tools/image-to-material.md)
 * [端到端物理尺寸工作流程](features-and-workflows/end-to-end-physical-size-workflow.md)
 * [导出参数资源](features-and-workflows/export-parametric-assets.md)
 * [脚本编写](scripting-and-development/scripting-and-development.md)

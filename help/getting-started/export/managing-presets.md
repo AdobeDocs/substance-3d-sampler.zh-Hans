@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/cn/substance-3d-sampler/getting-started/export/managing-presets.html"
 breadcrumb-title: ''
-description: 了解如何在Substance 3D Sampler中管理导出预设，以为不同的应用程序和管道配置材质。
+description: 了解如何在Substance 3D Sampler中管理导出预设，以便为不同的应用程序和管道配置材料。
 helpx_creative_field: ""
 helpx_description: Sampler > Getting Started > Export > Managing Presets
 helpx_experience_level: ""
@@ -32,7 +32,7 @@ ht-degree: 0%
    1. 使用<b>右边栏</b>中的<b>导出面板</b>。
    1. 使用<b>文件>导出为……</b>
    1. 使用快捷键<b>Ctrl + E.</b>
-1. 在<b>导出</b>窗口的左侧，选择<b>材质设置</b>。
+1. 在<b>导出</b>窗口的左侧，选择<b>材料设置</b>。
 1. 选择图像格式(EXR、JPEG、PNG、TARGA、TIFF)
 1. 此时会显示“预设”列表。
 

@@ -39,7 +39,7 @@ ht-degree: 15%
       + [Unity HDRPSpecular](/help/getting-started/export/default-presets/unity-hdrp-specular.md)
       + [Unity Standard](/help/getting-started/export/default-presets/unity-standard.md)
       + [UnitySpecular](/help/getting-started/export/default-presets/unity-specular.md)
-      + [虚引擎4](/help/getting-started/export/default-presets/unreal-engine-4.md)
+      + [虚线引擎4](/help/getting-started/export/default-presets/unreal-engine-4.md)
       + [Redshift](/help/getting-started/export/default-presets/redshift.md)
       + [V-Ray下一个](/help/getting-started/export/default-presets/v-ray-next.md)
     + [管理自定义预设](/help/getting-started/export/managing-custom-presets.md)
@@ -65,7 +65,7 @@ ht-degree: 15%
     + [工具和小组件概述](/help/interface/tools-and-widgets/tools-and-widgets.md)
     + [滑块](/help/interface/tools-and-widgets/sliders.md)
     + [拾色器](/help/interface/tools-and-widgets/color-picker.md)
-    + [素材创建预设](../interface/tools-and-widgets/material-creation-presets.md)
+    + [材料创建预设](../interface/tools-and-widgets/material-creation-presets.md)
   + 首选项{#preferences}
     + [首选项概述](/help/interface/preferences/preferences.md)
     + [法线贴图格式](/help/interface/preferences/normal-format.md)
@@ -120,7 +120,7 @@ ht-degree: 15%
     + [Delight - AI驱动](/help/filters/tools/delight-ai-powered.md)
     + [对AO的Height](/help/filters/tools/height-to-ao.md)
     + [正常Height](/help/filters/tools/height-to-normal.md)
-    + [图像到材质](/help/filters/tools/image-to-material.md)
+    + [图像到材料](/help/filters/tools/image-to-material.md)
     + [使其平铺](/help/filters/tools/make-it-tile.md)
     + [匹配](/help/filters/tools/match.md)
     + [多角度转材质](/help/filters/tools/multiangle-to-material.md)
@@ -177,7 +177,7 @@ ht-degree: 15%
   + [Adobe 标准材质](/help/features-and-workflows/adobe-standard-material.md)
   + [OpenPBR](/help/features-and-workflows/openpbr.md)
   + 高级素材{#advanced-materials}
-    + [创建高级素材](../features-and-workflows/create-advanced-materials/advanced-materials.md)
+    + [创建高级材料](../features-and-workflows/create-advanced-materials/advanced-materials.md)
     + [绒毛](../features-and-workflows/create-advanced-materials/fuzz.md)
     + [涂层](../features-and-workflows/create-advanced-materials/coating.md)
     + [次表面](../features-and-workflows/create-advanced-materials/subsurface.md)
@@ -192,7 +192,7 @@ ht-degree: 15%
     + [使用HP Z Captis设备的系统要求](/help/pipeline-and-integrations/hp-z-captis-support/system-requirements-to-use-hp-z-captis.md)
     + [有关Sampler中的HP Z支持的常见问题解答](/help/pipeline-and-integrations/hp-z-captis-support/faq-hp-z-captis-support-in-sampler.md)
     + [已知问题和限制](/help/pipeline-and-integrations/hp-z-captis-support/known-issues-and-limitations-hp-z-captis-support.md)
-  + [Tajima导出器增效工具](/help/pipeline-and-integrations/tajima-exporter-plugin.md)
+  + [Tajima导出器插件](/help/pipeline-and-integrations/tajima-exporter-plugin.md)
 + 技术支持{#technical-support}
   + [技术支持概述](/help/technical-support/technical-support.md)
   + [导出日志文件](/help/technical-support/exporting-the-log-file.md)
@@ -209,8 +209,8 @@ ht-degree: 15%
     + [在Substance 3D Sampler中导入Substance Alchemist项目](/help/technical-support/technical-issues/data-or-project-issues/import-substance-alchemist-projects-in-substance-3d-sampler.md)
   + 筛选问题{#filter-issues}
     + [筛选问题概述](/help/technical-support/technical-issues/filter-issues/filter-issues.md)
-    + [图像到材质和欢乐缺失](/help/technical-support/technical-issues/filter-issues/image-to-material-and-delighter-are-missing.md)
-    + [图像到素材视觉伪影](/help/technical-support/technical-issues/filter-issues/image-to-material-visual-artefacts.md)
+    + [缺少“图像到材料”和“愉悦”](/help/technical-support/technical-issues/filter-issues/image-to-material-and-delighter-are-missing.md)
+    + [图像以材料视觉伪影](/help/technical-support/technical-issues/filter-issues/image-to-material-visual-artefacts.md)
   + 界面问题{#interface-issues}
     + [界面问题概述](/help/technical-support/technical-issues/interface-issues/interface-issues.md)
     + [字体无法正确显示](/help/technical-support/technical-issues/interface-issues/fonts-are-not-displayed-correctly.md)
@@ -218,11 +218,11 @@ ht-degree: 15%
   + 性能问题{#performance-issues}
     + [性能问题概述](/help/technical-support/technical-issues/performance-issues/performance-issues.md)
     + [第一次打开拾色器时花费较长时间](/help/technical-support/technical-issues/performance-issues/color-picker-takes-long-time-to-open-the-first-time.md)
-    + [与图层栈栈或其他元素交互时，界面会滞后](/help/technical-support/technical-issues/performance-issues/interface-lags-when-interacting-with-the-layer-stack-or-other-elements.md)
+    + [与图层堆叠或其他元素交互时，界面会滞后](/help/technical-support/technical-issues/performance-issues/interface-lags-when-interacting-with-the-layer-stack-or-other-elements.md)
   + 稳定性问题{#stability-issues}
     + [稳定性问题概述](/help/technical-support/technical-issues/stability-issues/stability-issues.md)
-    + [导出素材时崩溃](/help/technical-support/technical-issues/stability-issues/crash-when-exporting-a-material.md)
-    + [将图像用于素材或欢乐时崩溃](/help/technical-support/technical-issues/stability-issues/crash-when-using-the-image-to-material-or-delighter.md)
+    + [导出材料时崩溃](/help/technical-support/technical-issues/stability-issues/crash-when-exporting-a-material.md)
+    + [使用图像材料或取乐时崩溃](/help/technical-support/technical-issues/stability-issues/crash-when-using-the-image-to-material-or-delighter.md)
   + 启动问题{#startup-issues}
     + [启动问题概述](/help/technical-support/technical-issues/startup-issues/startup-issues.md)
     + [应用程序无法在Linux上启动](/help/technical-support/technical-issues/startup-issues/application-doesn-t-start-on-linux.md)

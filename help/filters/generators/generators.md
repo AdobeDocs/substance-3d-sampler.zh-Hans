@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/cn/substance-3d-sampler/filters/generators.html"
 breadcrumb-title: ''
-description: 了解如何在Substance 3D Sampler中使用生成器滤镜来创建程序模式和素材基础。
+description: 了解如何在Substance 3D Sampler中使用生成器滤镜创建程序化图案和材料基础。
 helpx_creative_field: ""
 helpx_description: Sampler > Filters > Generators
 helpx_experience_level: ""
@@ -20,12 +20,12 @@ ht-degree: 4%
 
 # 生成器
 
-生成器是对素材进行添加更改的滤镜。 生成器通常导致素材的外观发生显着变化，因此经常用于创建素材的基础。
+生成器是对材料进行叠加更改的滤镜。 生成器通常可导致材料外观发生显着变化，因此经常用于创建材料基础。
 
 发电机的主要形式有两种：
 
-* 转换生成器将底层素材转换为新形式，如使用&#x200B;**面板过滤器**&#x200B;将扁钢素材转换为多个面板。
-* 添加生成器会在基础素材上方添加新元素，如&#x200B;**Atlas Scatter筛选器**，该筛选器从输入地图集中跨素材散点对象。
+* 转换生成器将基础材料转换为新形式，如使用&#x200B;**面板过滤器**&#x200B;将扁钢材料转换为多个面板。
+* 添加生成器会在基础材料上方添加新元素，例如&#x200B;**Atlas Scatter筛选器**，用于从输入地图集散点材料中的对象。
 
 转换生成器包括：
 

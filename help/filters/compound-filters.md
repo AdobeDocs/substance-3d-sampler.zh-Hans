@@ -104,7 +104,7 @@ ht-degree: 0%
 
 ### Version
 
-使用版本号可以跟踪不同的小版本。 打开使用先前版本的复合滤镜完成的图层栈叠时，将显示一条通知，建议您升级到最新版本。
+使用版本号可以跟踪各个迭代。 打开使用先前版本的复合滤镜完成的图层堆叠时，将显示一条通知，建议您升级到最新版本。
 
 ### 节点
 
@@ -117,7 +117,7 @@ ht-degree: 0%
 }
 ```
 
-节点可以引用不在Substance 3D Sampler中的SBSAR文件。 定义用于定义节点与SBSAR文件的文件名&#x200B;**File**&#x200B;之间的链接的唯一标识符&#x200B;**Id**。 SBSAR文件必须位于.alchfilter文件旁边的&#x200B;**资源**&#x200B;文件夹中。
+节点可以引用不在Substance 3D Sampler中的Sbsar 文件。 定义一个唯一的标识符&#x200B;**Id**，用于定义节点与节点的文件名&#x200B;**File**&#x200B;之间的Sbsar 文件。 sbsar 文件必须位于.alchfilter文件旁边的&#x200B;**资源**&#x200B;文件夹中。
 
 ```JSON
 { 
@@ -143,7 +143,7 @@ ht-degree: 0%
   * 设置复合筛选器的输入，节点ID为&#x200B;**FilterInput**
   * 设置复合图层的输出，节点ID为&#x200B;**FilterOutput**
 * 用法：声明要使用的用法。 有3个选项：
-  * 一次仅使用一次，并通过链接声明链接（baseColor、normal、Height、ambientOcclusion、粗糙度、金属、扩散、Specular、光泽度、镜面等级、不透明度、发射度、scan1、...）
+  * 一次使用一次，并通过链接声明链接（baseColor、normal、Height、ambientOcclusion、粗糙度、金属、扩散、Specular、光泽度、specularLevel、不透明度、emissive、scan1、...）
   * 也可以指定列表[&quot;baseColor&quot;， &quot;normal&quot;]。 **From**&#x200B;列表的第一项将与&#x200B;**To**&#x200B;列表的第一项匹配。 等等……
   * 使用&#x200B;**\***可以让Substance 3D Sampler在对“从”节点和“到”节点的所有使用方式的相同使用方式之间进行匹配（不能将&#x200B;**\***与另一个链接合并，但可以在同一节点之间合并单个链接和列表链接）
 * 组：如果节点的用法是同一用法的好几倍，则可以使用“组”属性选择特定的用法。 即：对于混合滤镜，要获取底部素材的baseColor，请使用&#x200B;*素材1*，要获取顶部素材的baseColor，请使用&#x200B;*素材2*

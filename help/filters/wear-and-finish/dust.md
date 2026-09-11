@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/cn/substance-3d-sampler/filters/wear-and-finish/dust.html"
 breadcrumb-title: ''
-description: 使用Substance 3D Sampler中的Dust滤镜为素材和纹理添加逼真的Dust累积效果。
+description: 使用Substance 3D Sampler中的Dust滤镜，为材料和纹理添加逼真的Dust累积效果。
 helpx_creative_field: ""
 helpx_description: Sampler > Filters > Wear and Finish > Dust
 helpx_experience_level: ""
@@ -22,7 +22,7 @@ ht-degree: 1%
 
 ## 演示
 
-使用“Dust飞溅图层”为素材添加Dust并定义Dust的扩散方式。
+使用“Dust飞溅”图层向材料添加Dust并定义Dust如何扩散。
 
 ![](../../assets/before-after-1.png)
 
@@ -35,7 +35,7 @@ ht-degree: 1%
 
 #### 何时使用它？
 
-可以在素材上方添加“Dust飞溅”。 可使用它来平滑型腔或使材料的不同元素协同工作。
+可以在材料顶部添加“Dust飞溅”。 可以使用它来平滑型腔或使材料中的不同元素协同工作。
 
 #### 参数
 
