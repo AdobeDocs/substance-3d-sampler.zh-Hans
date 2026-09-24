@@ -4,13 +4,11 @@ description: 查看Substance 3D Sampler版本6.0的发行说明，了解新增�
 title: 版本6.0
 user-guide-description: ''
 user-guide-title: ''
-source-git-commit: 56f4ac8b2b5ec271edb8338d51f8ac51e6746c6c
+source-git-commit: 275dc218870f111aa99533840a5aea4c3d22f0cf
 workflow-type: tm+mt
-source-wordcount: '1627'
+source-wordcount: '1651'
 ht-degree: 1%
-
 ---
-
 
 # 版本6.0
 
@@ -59,6 +57,17 @@ Sampler现在允许您通过单击启动HP Z Captis拍摄，该目标区域可�
 ![替代文本](../../help/assets/Captis_capture_optimization.JPG)
 
 ## V6.0发行说明
+
+### **6.0.4**
+
+*（发布日期：2026年9月24日）*
+
+**已更改**
+[引擎]将Substance 引擎更新到9.6.1
+
+**固定**
+将图像添加到浮雕蒙版时[图层]崩溃
+[安全性]常规修复
 
 ### **6.0.3**
 
@@ -141,7 +150,7 @@ Sampler现在允许您通过单击启动HP Z Captis拍摄，该目标区域可�
 * [UI]在快速访问器中实现模糊搜索
 * [UI]已将模板选择集成到材料创建对话框中
 * 通过快速入门创建[UI]材料
-* [UI]带模板的材料创建工作流程
+* [UI]带模板的材质创建工作流程
 * [UI]浮动操作栏的新样式
 * [UI]在材料需要其他使用时通知用户
 * [UI]以递增的数字提议新材料名称
