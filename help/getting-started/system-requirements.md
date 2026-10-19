@@ -1,5 +1,5 @@
 ---
-helpx_url: 'https://helpx.adobe.com/cn/substance-3d-sampler/getting-started/system-requirements.html'
+helpx_url: 'https://helpx.adobe.com/substance-3d-sampler/getting-started/system-requirements.html'
 breadcrumb-title: ''
 description: 查看Substance 3D Sampler的系统要求，确保您的硬件和软件符合兼容性标准。
 helpx_creative_field: ''
@@ -10,13 +10,11 @@ helpx_tags: ''
 title: 系统要求
 user-guide-description: ''
 user-guide-title: ''
-source-git-commit: cd61972eaf1567863dc8c3549a1c90c84ffee825
+source-git-commit: ce5a9fcca6e535a54340dda0d225076a62de39d6
 workflow-type: tm+mt
-source-wordcount: '595'
+source-wordcount: '647'
 ht-degree: 1%
-
 ---
-
 
 # 支持的系统
 
@@ -45,11 +43,15 @@ ht-degree: 1%
 
 |  | 最小 | 推荐 | 最佳 |
 | --- | --- | --- | --- |
-| **操作系统** | macOS13 Ventura | macOS14 Sonoma | macOS26 Tahoe |
+| **操作系统** | macOS红杉15号 | macOS金门27 | macOS金门27 |
 | **CPU** | Apple M1 | Apple M2 Pro | Apple M4 Pro |
 | **GPU** | Apple M1 | Apple M2 Pro | Apple M4 Pro |
 | **RAM** | 24 GB | 32 GB | 64 GB |
 | **存储空间** | 具有30 GB可用空间的固态硬盘 | 具有50 GB可用空间的固态硬盘 | 具有70 GB可用空间的固态硬盘 |
+
+>[!WARNING]
+>
+> 对于使用[VFX参考平台](https://vfxplatform.com/)构建的管道，Substance 3D Sampler仍然可以安装在macOS 14 Sonoma上。 但是，不再测试Sampler低于最低系统要求的操作系统版本，因此不保证稳定性。 建议更新到较新的操作系统版本。
 
 ### Linux
 
@@ -95,7 +97,7 @@ ht-degree: 1%
 
 下表列出了运行无问题的应用程序所需的最低GPU驱动程序版本。 此列表可能会随着新版本的发布而发生更改。
 
-要下载新驱动程序，请参阅： [GPU具有过时的驱动程序](https://experienceleague.adobe.com/zh-hans/docs/substance-3d-painter/using/technical-support/technical-issues/gpu-issues/gpu-has-outdated-drivers)。
+要下载新驱动程序，请参阅： [GPU具有过时的驱动程序](https://experienceleague.adobe.com/en/docs/substance-3d-painter/using/technical-support/technical-issues/gpu-issues/gpu-has-outdated-drivers)。
 
 | 操作系统 | NVIDIA | AMD | Intel |
 | --- | --- | --- | --- |
