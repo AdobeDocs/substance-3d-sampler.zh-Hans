@@ -2,15 +2,11 @@
 user-guide-title: Substance 3D Sampler
 breadcrumb-title: Substance 3D Sampler
 user-guide-description: Substance 3D Sampler
-hide: false
-hold: true
-source-git-commit: a0034da3bee13d0d7423828a902da62cf2219474
+source-git-commit: 09278e59a21757710d15d1bb447002a4aecb25a7
 workflow-type: tm+mt
-source-wordcount: '627'
+source-wordcount: '641'
 ht-degree: 15%
-
 ---
-
 
 # Substance 3D Sampler {#using}
 
@@ -21,7 +17,6 @@ ht-degree: 15%
   + [系统要求](/help/getting-started/system-requirements.md)
   + [Shortcuts](/help/getting-started/shortcuts.md)
   + [正在导入资源](/help/getting-started/importing-resources.md)
-  + [报告错误](/help/getting-started/report-a-bug.md)
   + [项目管理](/help/getting-started/project-management.md)
   + 导出{#export}
     + [导出概述](/help/getting-started/export/export.md)
@@ -82,7 +77,7 @@ ht-degree: 15%
     + [贴纸](/help/filters/generators/decal.md)
     + [浮雕](/help/filters/generators/embossing.md)
     + [刺绣](/help/filters/generators/embroidery.md)
-    + [地板拼贴](/help/filters/generators/floor-tiles.md)
+    + [floor拼贴](/help/filters/generators/floor-tiles.md)
     + [砾石](/help/filters/generators/gravel.md)
     + [面板](/help/filters/generators/panel.md)
     + [镶板](/help/filters/generators/parquet.md)
@@ -116,6 +111,7 @@ ht-degree: 15%
     + [通道生成](/help/filters/tools/channels-generation.md)
     + [通道交换机](/help/filters/tools/channel-switch.md)
     + [仿制图章](/help/filters/tools/clone-stamp.md)
+    + {hide-from-toc}[内容识别填充](/help/filters/tools/content-aware-fill.md)
     + [裁剪工具](/help/filters/tools/crop-tool.md)
     + [Delight - AI驱动](/help/filters/tools/delight-ai-powered.md)
     + [对AO的Height](/help/filters/tools/height-to-ao.md)
@@ -126,9 +122,10 @@ ht-degree: 15%
     + [多角度转材质](/help/filters/tools/multiangle-to-material.md)
     + [正常到Height](/help/filters/tools/normal-to-height.md)
     + [PBR 验证](/help/filters/tools/pbr-validate.md)
-    + [透视校正](/help/filters/tools/perspective-correction.md)
+    + [变换](/help/filters/tools/perspective-correction.md)
     + [平铺](/help/filters/tools/tiling.md)
     + [变换](/help/filters/tools/transform.md)
+    + {hide-from-toc}[绘画变形](/help/filters/tools/paint-warp.md)
     + [变形](/help/filters/tools/warp.md)
     + [变形变换](/help/filters/tools/warp-transform.md)
     + [放大](/help/filters/tools/upscale.md)
@@ -155,6 +152,7 @@ ht-degree: 15%
     + [Dust](/help/filters/wear-and-finish/dust.md)
     + [侵蚀](/help/filters/wear-and-finish/erode.md)
     + [金属光洁](/help/filters/wear-and-finish/metal-finish.md)
+    + {hide-from-toc}[木制光泽](/help/filters/wear-and-finish/wood-finish.md)
     + [苔藓](/help/filters/wear-and-finish/moss.md)
     + [氧化](/help/filters/wear-and-finish/oxidate.md)
     + [颜料](/help/filters/wear-and-finish/paint.md)
@@ -176,7 +174,7 @@ ht-degree: 15%
   + [用作位图](/help/features-and-workflows/use-as-bitmap.md)
   + [Adobe 标准材质](/help/features-and-workflows/adobe-standard-material.md)
   + [OpenPBR](/help/features-and-workflows/openpbr.md)
-  + 高级素材{#advanced-materials}
+  + 高级材料{#advanced-materials}
     + [创建高级材料](../features-and-workflows/create-advanced-materials/advanced-materials.md)
     + [绒毛](../features-and-workflows/create-advanced-materials/fuzz.md)
     + [涂层](../features-and-workflows/create-advanced-materials/coating.md)
@@ -195,6 +193,9 @@ ht-degree: 15%
   + [Tajima导出器插件](/help/pipeline-and-integrations/tajima-exporter-plugin.md)
 + 技术支持{#technical-support}
   + [技术支持概述](/help/technical-support/technical-support.md)
+  + {hide-from-toc}[性能模式](/help/technical-support/performance-mode.md)
+  + {hide-from-toc}[低规范模式](/help/technical-support/low-spec-mode.md)
+  + {hide-from-toc}[报告错误](/help/getting-started/report-a-bug.md)
   + [导出日志文件](/help/technical-support/exporting-the-log-file.md)
   + 配置{#configuration}
     + [配置概述](/help/technical-support/configuration/configuration.md)
@@ -231,6 +232,7 @@ ht-degree: 15%
   + [发行说明概述](/help/release-notes/release-notes.md)
   + [所有更改](/help/release-notes/all-changes.md)
   + [测试版](/help/release-notes/beta-version.md)
+  + {hide-from-toc}[版本6.1](/help/release-notes/version-6-1.md)
   + [版本6.0](/help/release-notes/version-6-0.md)
   + [版本5.1](/help/release-notes/version-5-1-substance-3d-sampler.md)
   + [版本5.0](/help/release-notes/version-5-0-substance-3d-sampler.md)

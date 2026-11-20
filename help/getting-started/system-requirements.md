@@ -1,5 +1,5 @@
 ---
-helpx_url: 'https://helpx.adobe.com/cn/substance-3d-sampler/getting-started/system-requirements.html'
+helpx_url: 'https://helpx.adobe.com/substance-3d-sampler/getting-started/system-requirements.html'
 breadcrumb-title: ''
 description: 查看Substance 3D Sampler的系统要求，确保您的硬件和软件符合兼容性标准。
 helpx_creative_field: ''
@@ -10,9 +10,10 @@ helpx_tags: ''
 title: 系统要求
 user-guide-description: ''
 user-guide-title: ''
-source-git-commit: ce5a9fcca6e535a54340dda0d225076a62de39d6
+hold: true
+source-git-commit: 8b2438eb381e35c19ab379a5fc14c962fd5b9b0a
 workflow-type: tm+mt
-source-wordcount: '647'
+source-wordcount: '684'
 ht-degree: 1%
 ---
 
@@ -27,6 +28,14 @@ ht-degree: 1%
 > * 610.47
 >
 > 我们建议避免使用这些版本 — 理想情况下，使用更新版本，或者，如果没有更新的版本，则使用以前的版本。
+
+>[!NOTE]
+>
+> 如果您的硬件低于最低系统要求，Sampler将自动在[低规范模式](../technical-support/low-spec-mode.md)中打开，这将限制某些功能。
+
+>[!TIP]
+>
+> 如果要提高Sampler的性能，请使用[性能模式](../technical-support/performance-mode.md)来关闭资源密集型功能。
 
 ## Windows
 
@@ -97,7 +106,7 @@ ht-degree: 1%
 
 下表列出了运行无问题的应用程序所需的最低GPU驱动程序版本。 此列表可能会随着新版本的发布而发生更改。
 
-要下载新驱动程序，请参阅： [GPU具有过时的驱动程序](https://experienceleague.adobe.com/zh-hans/docs/substance-3d-painter/using/technical-support/technical-issues/gpu-issues/gpu-has-outdated-drivers)。
+要下载新驱动程序，请参阅： [GPU具有过时的驱动程序](https://experienceleague.adobe.com/en/docs/substance-3d-painter/using/technical-support/technical-issues/gpu-issues/gpu-has-outdated-drivers)。
 
 | 操作系统 | NVIDIA | AMD | Intel |
 | --- | --- | --- | --- |
