@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/technical-support.html"
+helpx_url: "https://helpx.adobe.com/cn/substance-3d-sampler/technical-support.html"
 description: 访问Substance 3D Sampler的技术支持资源，查找常见问题的答案和故障排除指南。
 title: 技术支持
 hold: true

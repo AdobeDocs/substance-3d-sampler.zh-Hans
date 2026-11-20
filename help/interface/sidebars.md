@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/interface/sidebars.html"
+helpx_url: "https://helpx.adobe.com/cn/substance-3d-sampler/interface/sidebars.html"
 description: 了解Substance 3D Sampler界面中的左侧和右侧边栏，以导航工具、面板和应用程序功能。
 title: 侧边栏
 hold: true

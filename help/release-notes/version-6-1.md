@@ -22,7 +22,7 @@ ht-degree: 0%
 
 在Sampler中获取更快、响应更快的体验。 新的&#x200B;**性能模式**&#x200B;汇集了所有可能减慢工作流程的设置：分辨率限制、阴影、位移质量和路径跟踪。 关闭您不需要的功能以提高性能和响应速度。
 
-[*此处*](https://www.adobe.com/go/substance-3d-sampler-6.1-performance-mode)的详细信息
+[*此处*](https://www.adobe.com/go/substance-3d-sampler-6.1-performance-mode_cn)的详细信息
 
 ![](../assets/v6.1/6_1-Performance_Mode.png)
 
@@ -30,7 +30,7 @@ ht-degree: 0%
 
 如果您的硬件低于[最低规格](../getting-started/system-requirements.md)，Sampler现在会自动调整以使情况保持稳定。 最有可能减慢速度或导致崩溃关闭的功能会自动关闭。
 
-[*此处*](https://www.adobe.com/go/substance-3d-sampler-6.1-low-specs-mode)的详细信息
+[*此处*](https://www.adobe.com/go/substance-3d-sampler-6.1-low-specs-mode_cn)的详细信息
 
 ![](../assets/v6.1/6_1-Checked.png)
 
