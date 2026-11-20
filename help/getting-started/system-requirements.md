@@ -10,9 +10,10 @@ helpx_tags: ''
 title: 系统要求
 user-guide-description: ''
 user-guide-title: ''
-source-git-commit: ce5a9fcca6e535a54340dda0d225076a62de39d6
+hold: true
+source-git-commit: 8b2438eb381e35c19ab379a5fc14c962fd5b9b0a
 workflow-type: tm+mt
-source-wordcount: '647'
+source-wordcount: '684'
 ht-degree: 1%
 ---
 
@@ -27,6 +28,14 @@ ht-degree: 1%
 > * 610.47
 >
 > 我们建议避免使用这些版本 — 理想情况下，使用更新版本，或者，如果没有更新的版本，则使用以前的版本。
+
+>[!NOTE]
+>
+> 如果您的硬件低于最低系统要求，Sampler将自动在[低规范模式](../technical-support/low-spec-mode.md)中打开，这将限制某些功能。
+
+>[!TIP]
+>
+> 如果要提高Sampler的性能，请使用[性能模式](../technical-support/performance-mode.md)来关闭资源密集型功能。
 
 ## Windows
 
